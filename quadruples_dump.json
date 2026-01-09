@@ -1,0 +1,9505 @@
+{
+  "gold": {
+    "quadruples_0_0": [
+      [
+        "12X",
+        "cost-effective",
+        "not high",
+        "neg"
+      ]
+    ],
+    "quadruples_0_1": [
+      [
+        "12X",
+        "cost-effective",
+        "better",
+        "neg"
+      ],
+      [
+        "Realme Master Exploration edition",
+        "cost-effective",
+        "better",
+        "pos"
+      ]
+    ],
+    "quadruples_0_2": [
+      [
+        "the Master Explorer",
+        "battery life",
+        "poor performance",
+        "other"
+      ],
+      [
+        "the Master Explorer",
+        "heating",
+        "poor performance",
+        "other"
+      ]
+    ],
+    "quadruples_0_3": [
+      [
+        "Android",
+        "battery life",
+        "not clear",
+        "other"
+      ],
+      [
+        "Android",
+        "heating",
+        "not clear",
+        "other"
+      ],
+      [
+        "Master Exploration",
+        "appearance",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_0_4": [
+      [
+        "12",
+        "photo",
+        "didn't stuck at all",
+        "pos"
+      ],
+      [
+        "12x",
+        "photo",
+        "didn't work",
+        "neg"
+      ]
+    ],
+    "quadruples_0_5": [
+      [
+        "12",
+        "battery life",
+        "not work",
+        "neg"
+      ],
+      [
+        "12",
+        "speed of taking pictures",
+        "want to buy",
+        "pos"
+      ]
+    ],
+    "quadruples_0_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_0_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_0_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_0_9": [
+      [
+        "Xiaoping",
+        "grip",
+        "too comfortable",
+        "pos"
+      ]
+    ],
+    "quadruples_1_0": [
+      [
+        "K20Pro",
+        "lens",
+        "endurable",
+        "pos"
+      ]
+    ],
+    "quadruples_1_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_1_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_1_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_1_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_1_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_1_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_1_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_2_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_2_1": [
+      [
+        "11U",
+        "taking pictures",
+        "looks better",
+        "neg"
+      ],
+      [
+        "X70Pro+",
+        "taking pictures",
+        "looks better",
+        "pos"
+      ]
+    ],
+    "quadruples_2_2": [
+      [
+        "V",
+        "color",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_2_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_2_4": [
+      [
+        "vivo",
+        "sales",
+        "ugly",
+        "neg"
+      ]
+    ],
+    "quadruples_2_5": [
+      [
+        "X70pro+",
+        "sales volume",
+        "ugly",
+        "other"
+      ]
+    ],
+    "quadruples_2_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_2_7": [
+      [
+        "Vivo",
+        "photography",
+        "always strong",
+        "pos"
+      ]
+    ],
+    "quadruples_2_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_2_9": [
+      [
+        "vivo",
+        "photo",
+        "very strong",
+        "pos"
+      ]
+    ],
+    "quadruples_3_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_3_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_3_2": [
+      [
+        "Black Shark 4 pro",
+        "motherboard",
+        "burned out",
+        "neg"
+      ]
+    ],
+    "quadruples_3_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_3_4": [
+      [
+        "Black sharks",
+        "game",
+        "invincible",
+        "pos"
+      ],
+      [
+        "Black sharks",
+        "playing games",
+        "suitable for",
+        "pos"
+      ],
+      [
+        "Black sharks",
+        "taking pictures",
+        "too bad",
+        "neg"
+      ]
+    ],
+    "quadruples_3_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_4_0": [
+      [
+        "k40",
+        "screen",
+        "corner",
+        "neg"
+      ]
+    ],
+    "quadruples_4_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_4_2": [
+      [
+        "e3",
+        "flexible",
+        "beats",
+        "pos"
+      ],
+      [
+        "e4",
+        "flexible",
+        "beats",
+        "neg"
+      ]
+    ],
+    "quadruples_4_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_4_4": [
+      [
+        "598",
+        "sensor",
+        "bad",
+        "neg"
+      ],
+      [
+        "Detector",
+        "price",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_4_5": [
+      [
+        "GT",
+        "lens",
+        "may be a little worse",
+        "other"
+      ]
+    ],
+    "quadruples_4_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_4_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_4_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_5_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_5_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_5_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_5_3": [
+      [
+        "+",
+        "texture",
+        "better",
+        "pos"
+      ],
+      [
+        "+",
+        "video",
+        "better",
+        "pos"
+      ],
+      [
+        "40Pro",
+        "video",
+        "better",
+        "neg"
+      ],
+      [
+        "Mate",
+        "curvature",
+        "too large",
+        "neg"
+      ]
+    ],
+    "quadruples_5_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_5_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_6_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_6_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_6_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_6_3": [
+      [
+        "IQOO",
+        "system",
+        "update is slow",
+        "neg"
+      ]
+    ],
+    "quadruples_6_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_6_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_6_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_6_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_1": [
+      [
+        "Mate30",
+        "screen",
+        "burst inside",
+        "pos"
+      ]
+    ],
+    "quadruples_7_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_5": [
+      [
+        "p30",
+        "emergency backup",
+        "What use",
+        "neg"
+      ],
+      [
+        "p30",
+        "system recovery",
+        "What use",
+        "neg"
+      ]
+    ],
+    "quadruples_7_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_8": [
+      [
+        "Mate20",
+        "memory",
+        "full",
+        "neg"
+      ]
+    ],
+    "quadruples_7_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_8_0": [
+      [
+        "10p",
+        "charging",
+        "better",
+        "neg"
+      ],
+      [
+        "10p",
+        "others",
+        "not as good as",
+        "pos"
+      ],
+      [
+        "10p",
+        "taking pictures",
+        "better",
+        "neg"
+      ],
+      [
+        "10u",
+        "charging",
+        "better",
+        "pos"
+      ],
+      [
+        "10u",
+        "others",
+        "not as good as",
+        "neg"
+      ],
+      [
+        "10u",
+        "taking pictures",
+        "better",
+        "pos"
+      ]
+    ],
+    "quadruples_8_1": [
+      [
+        "10",
+        "optimization",
+        "very good",
+        "pos"
+      ],
+      [
+        "10U",
+        "game experienc",
+        "better",
+        "pos"
+      ],
+      [
+        "10p",
+        "game experienc",
+        "better",
+        "neg"
+      ]
+    ],
+    "quadruples_8_2": [
+      [
+        "10U",
+        "performance",
+        "weakened",
+        "neg"
+      ]
+    ],
+    "quadruples_8_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_8_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_8_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_8_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_8_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_8_8": [
+      [
+        "10p",
+        "screen",
+        "too bad",
+        "neg"
+      ]
+    ],
+    "quadruples_9_0": [
+      [
+        "MIUI",
+        "performance",
+        "optimization is the same as 💩",
+        "neg"
+      ]
+    ],
+    "quadruples_9_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_9_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_9_3": [
+      [
+        "Xiaomi",
+        "Running",
+        "smoothly",
+        "pos"
+      ]
+    ],
+    "quadruples_9_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_9_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_9_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_9_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_9_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_10_0": [
+      [
+        "RealMe",
+        "system",
+        "too crappy",
+        "neg"
+      ]
+    ],
+    "quadruples_10_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_10_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_10_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_10_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_10_5": [
+      [
+        "master",
+        "fineness of the animation",
+        "very crappy",
+        "neg"
+      ],
+      [
+        "master",
+        "phone separation",
+        "not good enough",
+        "neg"
+      ],
+      [
+        "master",
+        "small windows",
+        "not good enough",
+        "neg"
+      ]
+    ],
+    "quadruples_10_6": [
+      [
+        "RealMe",
+        "system",
+        "much better",
+        "pos"
+      ]
+    ],
+    "quadruples_10_7": [
+      [
+        "K40",
+        "system",
+        "better",
+        "pos"
+      ],
+      [
+        "the Realme",
+        "system",
+        "better",
+        "neg"
+      ]
+    ],
+    "quadruples_11_0": [
+      [
+        "Huawei",
+        "high -end",
+        "stabilized its feet",
+        "pos"
+      ],
+      [
+        "Samsung",
+        "high -end",
+        "stabilized its feet",
+        "pos"
+      ]
+    ],
+    "quadruples_11_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_11_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_11_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_11_4": [
+      [
+        "Mate series",
+        "price",
+        "high",
+        "pos"
+      ],
+      [
+        "P series",
+        "price",
+        "high",
+        "pos"
+      ]
+    ],
+    "quadruples_11_5": [
+      [
+        "Huawei",
+        "signal",
+        "very good",
+        "pos"
+      ]
+    ],
+    "quadruples_11_6": [
+      [
+        "Huawei",
+        "sales volume",
+        "rises",
+        "pos"
+      ]
+    ],
+    "quadruples_12_0": [
+      [
+        "IQOO",
+        "signal",
+        "bad",
+        "neg"
+      ]
+    ],
+    "quadruples_12_1": [
+      [
+        "Android flagship version",
+        "signal",
+        "difference in daily use",
+        "other"
+      ],
+      [
+        "IQOO",
+        "signal",
+        "not so bad",
+        "pos"
+      ]
+    ],
+    "quadruples_12_2": [
+      [
+        "iQOO",
+        "signal",
+        "bad",
+        "neg"
+      ]
+    ],
+    "quadruples_12_3": [
+      [
+        "Huawei",
+        "signals",
+        "better",
+        "neg"
+      ],
+      [
+        "IQOO",
+        "signals",
+        "better",
+        "pos"
+      ]
+    ],
+    "quadruples_12_4": [
+      [
+        "Huawei",
+        "signal",
+        "full",
+        "pos"
+      ]
+    ],
+    "quadruples_12_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_12_6": [
+      [
+        "Huawei's Mate series",
+        "everything",
+        "handy",
+        "pos"
+      ]
+    ],
+    "quadruples_13_0": [
+      [
+        "Xiaomi",
+        "experience",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_13_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_13_2": [
+      [
+        "Xiaomi 11",
+        "word of mouth",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_13_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_13_4": [
+      [
+        "Xiaomi",
+        "experience",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_13_5": [
+      [
+        "Xiaomi",
+        "computer",
+        "okay",
+        "pos"
+      ],
+      [
+        "Xiaomi",
+        "mobile phone",
+        "may not work",
+        "neg"
+      ]
+    ],
+    "quadruples_13_6": [
+      [
+        "14S",
+        "screen",
+        "indeed good",
+        "pos"
+      ],
+      [
+        "14S",
+        "workmanship",
+        "indeed good",
+        "pos"
+      ]
+    ],
+    "quadruples_13_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_13_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_13_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_14_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_14_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_14_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_14_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_14_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_14_5": [
+      [
+        "OnePlus",
+        "takes pictures",
+        "suck",
+        "neg"
+      ]
+    ],
+    "quadruples_15_0": [
+      [
+        "18",
+        "endurance",
+        "too bad",
+        "neg"
+      ]
+    ],
+    "quadruples_15_1": [
+      [
+        "12X",
+        "battery life",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_15_2": [
+      [
+        "12X",
+        "endurance",
+        "good",
+        "pos"
+      ],
+      [
+        "12X",
+        "size",
+        "small",
+        "other"
+      ]
+    ],
+    "quadruples_15_3": [
+      [
+        "12X",
+        "starting price",
+        "a bit higher",
+        "neg"
+      ]
+    ],
+    "quadruples_15_4": [
+      [
+        "Meizu 18",
+        "battery life",
+        "too bad",
+        "neg"
+      ]
+    ],
+    "quadruples_15_5": [
+      [
+        "18",
+        "heat",
+        "suck",
+        "neg"
+      ]
+    ],
+    "quadruples_15_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_15_7": [
+      [
+        "12X",
+        "battery life",
+        "very good",
+        "pos"
+      ]
+    ],
+    "quadruples_15_8": [
+      [
+        "12x",
+        "screen",
+        "eyes sour",
+        "other"
+      ]
+    ],
+    "quadruples_15_9": [
+      [
+        "Samsung S20",
+        "screen",
+        "hurt my eyes",
+        "neg"
+      ]
+    ],
+    "quadruples_16_0": [
+      [
+        "11ultra",
+        "endurance",
+        "sucks",
+        "neg"
+      ]
+    ],
+    "quadruples_16_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_16_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_16_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_16_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_16_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_16_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_16_7": [
+      [
+        "11Pro",
+        "battery life",
+        "not bad",
+        "pos"
+      ]
+    ],
+    "quadruples_16_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_17_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_17_1": [
+      [
+        "Xiaomi",
+        "battery life",
+        "terrible",
+        "neg"
+      ]
+    ],
+    "quadruples_17_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_17_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_17_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_17_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_17_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_18_0": [
+      [
+        "Magic3Pro",
+        "main camera",
+        "not have an optical image stabilization",
+        "neg"
+      ]
+    ],
+    "quadruples_18_1": [
+      [
+        "Magic3Pro",
+        "Taking photos",
+        "quite stable",
+        "pos"
+      ]
+    ],
+    "quadruples_18_2": [
+      [
+        "Magic3Pro",
+        "too poor",
+        "charging",
+        "neg"
+      ]
+    ],
+    "quadruples_18_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_18_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_18_5": [
+      [
+        "Samsung",
+        "quality",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_18_6": [
+      [
+        "LTPO",
+        "stroboscopic",
+        "much higher",
+        "pos"
+      ],
+      [
+        "New week",
+        "stroboscopic",
+        "much higher",
+        "neg"
+      ]
+    ],
+    "quadruples_18_7": [
+      [
+        "Magic3Pro",
+        "optical image stabilization",
+        "Didn't use",
+        "other"
+      ]
+    ],
+    "quadruples_18_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_18_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_6": [
+      [
+        "iPhone7",
+        "battery",
+        "fine",
+        "pos"
+      ]
+    ],
+    "quadruples_19_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_9": [
+      [
+        "Apple",
+        "change hands in the second time",
+        "easy",
+        "pos"
+      ]
+    ],
+    "quadruples_20_0": [
+      [
+        "Samsung",
+        "photography",
+        "inferior",
+        "pos"
+      ],
+      [
+        "iPhone",
+        "photography",
+        "inferior",
+        "pos"
+      ]
+    ],
+    "quadruples_20_1": [
+      [
+        "iPhone",
+        "picture",
+        "not very good",
+        "neg"
+      ]
+    ],
+    "quadruples_20_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_20_3": [
+      [
+        "apple",
+        "photography",
+        "bottom",
+        "neg"
+      ],
+      [
+        "apple",
+        "video ability",
+        "can only boast",
+        "pos"
+      ]
+    ],
+    "quadruples_20_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_20_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_21_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_21_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_21_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_21_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_21_4": [
+      [
+        "x3p",
+        "battery life",
+        "at the bottom",
+        "neg"
+      ]
+    ],
+    "quadruples_21_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_21_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_21_7": [
+      [
+        "iQOO8Pro",
+        "games",
+        "comfortable",
+        "pos"
+      ]
+    ],
+    "quadruples_22_0": [
+      [
+        "Honor 60",
+        "color",
+        "looks so cheap",
+        "neg"
+      ],
+      [
+        "Honor 60",
+        "material",
+        "looks so cheap",
+        "neg"
+      ]
+    ],
+    "quadruples_22_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_22_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_22_3": [
+      [
+        "50",
+        "texture",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_22_4": [
+      [
+        "Honor 60",
+        "appearance",
+        "much better",
+        "pos"
+      ],
+      [
+        "Honor 60",
+        "texture",
+        "much better",
+        "pos"
+      ]
+    ],
+    "quadruples_22_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_22_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_22_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_23_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_23_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_23_2": [
+      [
+        "Samsung",
+        "charging",
+        "a bit unbearable",
+        "neg"
+      ],
+      [
+        "Samsung",
+        "life",
+        "a bit unbearable",
+        "neg"
+      ]
+    ],
+    "quadruples_23_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_23_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_23_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_23_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_23_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_24_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_24_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_24_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_24_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_24_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_24_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_25_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_25_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_25_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_25_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_25_4": [
+      [
+        "mix4",
+        "system",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_25_5": [
+      [
+        "MIX4",
+        "under-screen fingerprint",
+        "suck",
+        "neg"
+      ]
+    ],
+    "quadruples_26_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_26_1": [
+      [
+        "Meizu",
+        "after-sales service of small factories",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_26_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_26_3": [
+      [
+        "16s",
+        "screen",
+        "been out of stock",
+        "neg"
+      ]
+    ],
+    "quadruples_26_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_26_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_26_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_26_7": [
+      [
+        "Meizu",
+        "screen",
+        "not seem to be very solid",
+        "neg"
+      ]
+    ],
+    "quadruples_26_8": [
+      [
+        "Meizu",
+        "screen",
+        "disappointed",
+        "neg"
+      ]
+    ],
+    "quadruples_27_0": [
+      [
+        "iPhone13",
+        "battery life",
+        "so good",
+        "other"
+      ]
+    ],
+    "quadruples_27_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_27_2": [
+      [
+        "13pro",
+        "adaptive refresh",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_27_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_27_4": [
+      [
+        "A15",
+        "power consumption",
+        "low",
+        "pos"
+      ]
+    ],
+    "quadruples_27_5": [
+      [
+        "s21",
+        "battery life",
+        "too poor",
+        "neg"
+      ]
+    ],
+    "quadruples_27_6": [
+      [
+        "Honestly 10",
+        "low frequency",
+        "can't stand",
+        "neg"
+      ]
+    ],
+    "quadruples_27_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_27_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_28_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_28_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_28_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_28_3": [
+      [
+        "Meizu",
+        "bug",
+        "can't remember",
+        "other"
+      ],
+      [
+        "Meizu",
+        "configuration",
+        "better",
+        "neg"
+      ],
+      [
+        "Meizu",
+        "signal",
+        "poor",
+        "neg"
+      ],
+      [
+        "Meizu",
+        "system",
+        "slow to update",
+        "neg"
+      ],
+      [
+        "other companies",
+        "configuration",
+        "better",
+        "pos"
+      ]
+    ],
+    "quadruples_28_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_28_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_29_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_29_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_29_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_29_3": [
+      [
+        "Apple",
+        "signal",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_29_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_29_5": [
+      [
+        "Apple",
+        "signal experience",
+        "Full signal",
+        "pos"
+      ]
+    ],
+    "quadruples_30_0": [
+      [
+        "mate30",
+        "Taking pictures",
+        "suck",
+        "neg"
+      ],
+      [
+        "mate30",
+        "everything else",
+        "good",
+        "pos"
+      ],
+      [
+        "mate30",
+        "taking pictures",
+        "good",
+        "neg"
+      ]
+    ],
+    "quadruples_30_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_30_2": [
+      [
+        "mate",
+        "Basic photography",
+        "can't even compare",
+        "neg"
+      ],
+      [
+        "mate",
+        "photos",
+        "lose color, not to whiten",
+        "neg"
+      ],
+      [
+        "thousand yuan machine",
+        "Basic photography",
+        "can't even compare",
+        "pos"
+      ]
+    ],
+    "quadruples_30_3": [
+      [
+        "Apple",
+        "screen",
+        "also relatively good",
+        "pos"
+      ],
+      [
+        "p40",
+        "photos",
+        "not as real as",
+        "neg"
+      ],
+      [
+        "thousand yuan mobile phone",
+        "Basic photography",
+        "terrible",
+        "neg"
+      ],
+      [
+        "thousand-yuan phone is",
+        "Basic photography",
+        "much worse",
+        "neg"
+      ]
+    ],
+    "quadruples_30_4": [
+      [
+        "iPhone",
+        "details",
+        "worse",
+        "pos"
+      ],
+      [
+        "iPhone",
+        "signal",
+        "beats",
+        "neg"
+      ],
+      [
+        "mate30",
+        "details",
+        "worse",
+        "neg"
+      ],
+      [
+        "mate30",
+        "indoor",
+        "bad",
+        "neg"
+      ],
+      [
+        "mate30",
+        "signal",
+        "beats",
+        "pos"
+      ],
+      [
+        "mate30",
+        "take pictures",
+        "eally bad",
+        "neg"
+      ],
+      [
+        "mate30",
+        "take pictures",
+        "smearing feeling was too serious",
+        "neg"
+      ]
+    ],
+    "quadruples_30_5": [
+      [
+        "Apple",
+        "Perception",
+        "not too strong",
+        "other"
+      ],
+      [
+        "Apple",
+        "all aspects",
+        "relatively balanced",
+        "pos"
+      ]
+    ],
+    "quadruples_31_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_31_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_31_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_31_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_31_4": [
+      [
+        "11 pro max",
+        "battery life",
+        "great",
+        "pos"
+      ]
+    ],
+    "quadruples_31_5": [
+      [
+        "13pm",
+        "screen",
+        "shocking",
+        "pos"
+      ],
+      [
+        "oled",
+        "watching hdr video",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_32_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_32_1": [
+      [
+        "Mi 6",
+        "battery life",
+        "How",
+        "other"
+      ],
+      [
+        "Mi 6",
+        "high frame rate of King of",
+        "stable",
+        "other"
+      ]
+    ],
+    "quadruples_32_2": [
+      [
+        "Mi 6",
+        "battery life",
+        "satisfied",
+        "pos"
+      ],
+      [
+        "Mi 6",
+        "frame rate",
+        "stable",
+        "pos"
+      ]
+    ],
+    "quadruples_32_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_32_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_32_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_32_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_32_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_33_0": [
+      [
+        "11U",
+        "actual experience",
+        "particularly poor",
+        "neg"
+      ],
+      [
+        "11U",
+        "materials",
+        "a lot of stacking",
+        "pos"
+      ]
+    ],
+    "quadruples_33_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_33_2": [
+      [
+        "11u",
+        "charging speed",
+        "not bad",
+        "pos"
+      ],
+      [
+        "11u",
+        "performance",
+        "bad",
+        "neg"
+      ],
+      [
+        "11u",
+        "photography",
+        "equally terrible",
+        "neg"
+      ],
+      [
+        "11u",
+        "photoshoot",
+        "terrible",
+        "neg"
+      ],
+      [
+        "11u",
+        "r corner",
+        "too ugly",
+        "neg"
+      ],
+      [
+        "11u",
+        "screen",
+        "good",
+        "pos"
+      ],
+      [
+        "11u",
+        "system",
+        "without optimization",
+        "neg"
+      ]
+    ],
+    "quadruples_33_3": [
+      [
+        "11u",
+        "photography",
+        "good",
+        "pos"
+      ],
+      [
+        "11u",
+        "photography",
+        "not as good as",
+        "neg"
+      ],
+      [
+        "11u",
+        "pictures",
+        "good",
+        "pos"
+      ],
+      [
+        "Apple",
+        "photography",
+        "not as good as",
+        "pos"
+      ],
+      [
+        "Samsung",
+        "photography",
+        "not as good as",
+        "pos"
+      ]
+    ],
+    "quadruples_33_4": [
+      [
+        "11U",
+        "system",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_33_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_33_6": [
+      [
+        "11U",
+        "camera",
+        "will also freeze",
+        "neg"
+      ],
+      [
+        "11U",
+        "game",
+        "not been optimized",
+        "neg"
+      ],
+      [
+        "11U",
+        "systems",
+        "often have a black screen and no response",
+        "neg"
+      ],
+      [
+        "11U",
+        "zoom",
+        "will also freeze",
+        "neg"
+      ]
+    ],
+    "quadruples_33_7": [
+      [
+        "11U",
+        "Hasselblad",
+        "worthless",
+        "neg"
+      ]
+    ],
+    "quadruples_33_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_34_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_34_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_34_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_34_3": [
+      [
+        "Huawei",
+        "actual experience",
+        "far better",
+        "pos"
+      ],
+      [
+        "Huawei",
+        "configuration",
+        "worse",
+        "neg"
+      ],
+      [
+        "Xiaomi",
+        "actual experience",
+        "far better",
+        "neg"
+      ],
+      [
+        "Xiaomi",
+        "configuration",
+        "worse",
+        "pos"
+      ]
+    ],
+    "quadruples_34_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_34_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_34_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_34_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_34_8": [
+      [
+        "p40",
+        "Taking pictures",
+        "hard to say",
+        "neg"
+      ]
+    ],
+    "quadruples_35_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_35_1": [
+      [
+        "OnePlus 10Pro",
+        "photo effect",
+        "good",
+        "pos"
+      ],
+      [
+        "gt2Pro",
+        "performance scheduling",
+        "very aggressive",
+        "pos"
+      ],
+      [
+        "iQOO9Pro",
+        "performance scheduling",
+        "more radical",
+        "pos"
+      ]
+    ],
+    "quadruples_35_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_35_3": [
+      [
+        "OnePlus 10pro",
+        "image",
+        "best",
+        "pos"
+      ],
+      [
+        "iqoo9pro",
+        "performance scheduling",
+        "better",
+        "pos"
+      ]
+    ],
+    "quadruples_35_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_35_5": [
+      [
+        "gt2 pro",
+        "game",
+        "very cool",
+        "pos"
+      ],
+      [
+        "gt2 pro",
+        "standby",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_36_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_36_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_36_2": [
+      [
+        "Xiaomi",
+        "slide down",
+        "keep stuck",
+        "neg"
+      ]
+    ],
+    "quadruples_36_3": [
+      [
+        "Mi 11",
+        "Weibo",
+        "has never locked to 60Hz",
+        "pos"
+      ]
+    ],
+    "quadruples_36_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_36_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_36_6": [
+      [
+        "10pro",
+        "Weibo",
+        "not locked",
+        "pos"
+      ]
+    ],
+    "quadruples_36_7": [
+      [
+        "Xiaomi Mi 11",
+        "120hz",
+        "not stuck",
+        "pos"
+      ],
+      [
+        "Xiaomi Mi 11",
+        "120hz",
+        "very smooth",
+        "pos"
+      ]
+    ],
+    "quadruples_37_0": [
+      [
+        "PM",
+        "screen",
+        "big",
+        "pos"
+      ]
+    ],
+    "quadruples_37_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_37_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_37_3": [
+      [
+        "12pro",
+        "cameras",
+        "quite different",
+        "neg"
+      ],
+      [
+        "max",
+        "cameras",
+        "quite different",
+        "pos"
+      ]
+    ],
+    "quadruples_37_4": [
+      [
+        "PM",
+        "screen",
+        "big",
+        "pos"
+      ]
+    ],
+    "quadruples_37_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_38_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_38_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_38_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_38_3": [
+      [
+        "20",
+        "taking pictures",
+        "better",
+        "neg"
+      ],
+      [
+        "30",
+        "taking pictures",
+        "worse",
+        "pos"
+      ],
+      [
+        "50",
+        "screen",
+        "same",
+        "other"
+      ],
+      [
+        "50",
+        "taking pictures",
+        "better",
+        "pos"
+      ],
+      [
+        "50",
+        "taking pictures",
+        "worse",
+        "neg"
+      ]
+    ],
+    "quadruples_38_4": [
+      [
+        "Honor 50",
+        "camera",
+        "joke",
+        "neg"
+      ]
+    ],
+    "quadruples_38_5": [
+      [
+        "Honor 50",
+        "camera",
+        "PPT",
+        "neg"
+      ]
+    ],
+    "quadruples_38_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_39_0": [
+      [
+        "Huawei Mate20 Pro",
+        "screen",
+        "broken",
+        "neg"
+      ]
+    ],
+    "quadruples_39_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_39_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_39_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_39_4": [
+      [
+        "iOS",
+        "APP",
+        "less APP advertisements",
+        "pos"
+      ],
+      [
+        "iOS",
+        "film",
+        "high-quality",
+        "pos"
+      ],
+      [
+        "iOS",
+        "photo",
+        "good",
+        "pos"
+      ],
+      [
+        "iOS",
+        "privacy",
+        "better",
+        "pos"
+      ],
+      [
+        "iOS",
+        "video recording",
+        "good",
+        "pos"
+      ],
+      [
+        "iOS",
+        "vlog shooting",
+        "suitable for",
+        "pos"
+      ]
+    ],
+    "quadruples_39_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_40_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_40_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_40_2": [
+      [
+        "13PM",
+        "signal",
+        "Better",
+        "pos"
+      ]
+    ],
+    "quadruples_40_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_40_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_40_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_41_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_41_1": [
+      [
+        "k30pro",
+        "686",
+        "optimization of k30pro is too bad",
+        "neg"
+      ]
+    ],
+    "quadruples_41_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_41_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_41_4": [
+      [
+        "imx686",
+        "white balance",
+        "too bad",
+        "neg"
+      ]
+    ],
+    "quadruples_41_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_41_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_41_7": [
+      [
+        "K30 pro",
+        "screen",
+        "good",
+        "pos"
+      ],
+      [
+        "K30 pro",
+        "taking pictures",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_41_8": [
+      [
+        "K30 pro",
+        "quality",
+        "good",
+        "pos"
+      ],
+      [
+        "K30 pro",
+        "screen",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_42_0": [
+      [
+        "Xiaomi",
+        "miui",
+        "difficult to use",
+        "neg"
+      ],
+      [
+        "Xiaomi",
+        "video game assistant",
+        "all manufacturers have",
+        "other"
+      ]
+    ],
+    "quadruples_42_1": [
+      [
+        "Huawei",
+        "battery",
+        "too durable",
+        "pos"
+      ],
+      [
+        "Huawei",
+        "playing games",
+        "there is a game mode",
+        "pos"
+      ]
+    ],
+    "quadruples_42_2": [
+      [
+        "Huawei",
+        "battery life",
+        "last for more than a day",
+        "pos"
+      ]
+    ],
+    "quadruples_42_3": [
+      [
+        "Huawei",
+        "interface vision",
+        "very strong",
+        "pos"
+      ],
+      [
+        "Huawei",
+        "office functions",
+        "very strong",
+        "pos"
+      ],
+      [
+        "Huawei",
+        "smart voice",
+        "doesn't seem to be very smart",
+        "neg"
+      ]
+    ],
+    "quadruples_42_4": [
+      [
+        "Huawei",
+        "colors",
+        "great and comfortable",
+        "pos"
+      ],
+      [
+        "Huawei",
+        "lines",
+        "great and comfortable",
+        "pos"
+      ],
+      [
+        "Huawei",
+        "optional themes and fonts",
+        "great and comfortable",
+        "pos"
+      ]
+    ],
+    "quadruples_42_5": [
+      [
+        "Oppo",
+        "personalization, life and intelligence",
+        "very good",
+        "pos"
+      ],
+      [
+        "vivo",
+        "intelligent somatosensory operation",
+        "very practical",
+        "pos"
+      ],
+      [
+        "vivo",
+        "personalization, life and intelligence",
+        "very good",
+        "pos"
+      ],
+      [
+        "vivo",
+        "small functions that are convenient for life",
+        "very practical",
+        "pos"
+      ],
+      [
+        "vivo",
+        "voice assistant information visualization",
+        "very practical",
+        "pos"
+      ]
+    ],
+    "quadruples_42_6": [
+      [
+        "Samsung",
+        "defective rate",
+        "high",
+        "neg"
+      ],
+      [
+        "Samsung",
+        "experience",
+        "absolutely terrible",
+        "neg"
+      ]
+    ],
+    "quadruples_42_7": [
+      [
+        "Samsung",
+        "system",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_43_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_43_1": [
+      [
+        "9pro",
+        "taking pictures",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_43_2": [
+      [
+        "9pro",
+        "mode",
+        "a bit interesting",
+        "pos"
+      ]
+    ],
+    "quadruples_43_3": [
+      [
+        "9pro",
+        "Harzu",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_43_4": [
+      [
+        "Pro",
+        "workmanship",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_43_5": [
+      [
+        "OnePlus",
+        "workmanship",
+        "not good",
+        "neg"
+      ],
+      [
+        "Pro",
+        "Aesthetics",
+        "not good",
+        "neg"
+      ],
+      [
+        "Pro",
+        "taking pictures",
+        "joint names is useless",
+        "pos"
+      ],
+      [
+        "green factory",
+        "workmanship",
+        "How can the workmanship be bad",
+        "pos"
+      ]
+    ],
+    "quadruples_43_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_44_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_44_1": [
+      [
+        "11u",
+        "battery life",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_44_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_44_3": [
+      [
+        "12pro",
+        "high refresh rate",
+        "No wonder consume power quickly",
+        "neg"
+      ]
+    ],
+    "quadruples_44_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_44_5": [
+      [
+        "12pro",
+        "resolution",
+        "high",
+        "pos"
+      ],
+      [
+        "12pro",
+        "screen",
+        "Large",
+        "pos"
+      ]
+    ],
+    "quadruples_44_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_45_0": [
+      [
+        "Apple",
+        "charges",
+        "slowly",
+        "neg"
+      ],
+      [
+        "Apple",
+        "consumes",
+        "slowly",
+        "neg"
+      ]
+    ],
+    "quadruples_45_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_45_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_45_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_45_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_45_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_45_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_45_7": [
+      [
+        "Huawei",
+        "charging",
+        "fast",
+        "pos"
+      ],
+      [
+        "Huawei",
+        "power",
+        "slow",
+        "neg"
+      ]
+    ],
+    "quadruples_45_8": [
+      [
+        "13promax",
+        "battery life",
+        "better",
+        "pos"
+      ],
+      [
+        "Android",
+        "battery life",
+        "better",
+        "neg"
+      ],
+      [
+        "Apple",
+        "power consumption",
+        "slow",
+        "neg"
+      ]
+    ],
+    "quadruples_45_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_46_0": [
+      [
+        "12p",
+        "playing the King",
+        "Dropped frames",
+        "neg"
+      ],
+      [
+        "12p",
+        "playing the King",
+        "hot",
+        "neg"
+      ]
+    ],
+    "quadruples_46_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_46_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_46_3": [
+      [
+        "Apple 11Pro",
+        "playing King",
+        "dropped frames",
+        "neg"
+      ],
+      [
+        "Apple",
+        "playing games",
+        "hot",
+        "neg"
+      ],
+      [
+        "Mi 11",
+        "play King",
+        "no pressure",
+        "pos"
+      ],
+      [
+        "Mi 11",
+        "playing games",
+        "hot",
+        "neg"
+      ]
+    ],
+    "quadruples_46_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_46_5": [
+      [
+        "Apple",
+        "heat dissipation",
+        "bad",
+        "neg"
+      ]
+    ],
+    "quadruples_46_6": [
+      [
+        "Apple",
+        "heat dissipation",
+        "too bad",
+        "neg"
+      ]
+    ],
+    "quadruples_47_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_47_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_47_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_47_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_47_4": [
+      [
+        "Xiaomi Mi 12",
+        "battery life",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_47_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_47_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_47_7": [
+      [
+        "S22",
+        "battery",
+        "such a small",
+        "neg"
+      ]
+    ],
+    "quadruples_47_8": [
+      [
+        "S22",
+        "25W",
+        "beat",
+        "pos"
+      ]
+    ],
+    "quadruples_48_0": [
+      [
+        "Apple",
+        "system",
+        "smooth",
+        "pos"
+      ]
+    ],
+    "quadruples_48_1": [
+      [
+        "Samsung",
+        "battery",
+        "explosion",
+        "neg"
+      ]
+    ],
+    "quadruples_48_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_48_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_48_4": [
+      [
+        "Apple",
+        "taking pictures",
+        "advantage",
+        "pos"
+      ]
+    ],
+    "quadruples_48_5": [
+      [
+        "Apple",
+        "photo",
+        "ghost",
+        "neg"
+      ]
+    ],
+    "quadruples_48_6": [
+      [
+        "Apple",
+        "Taking portrait photos",
+        "better",
+        "pos"
+      ],
+      [
+        "Huawei",
+        "Taking portrait photos",
+        "better",
+        "neg"
+      ]
+    ],
+    "quadruples_48_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_48_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_48_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_49_0": [
+      [
+        "s10+",
+        "battery status",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_49_1": [
+      [
+        "s10+",
+        "battery",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_49_2": [
+      [
+        "s10+",
+        "voltage",
+        "limit",
+        "neg"
+      ]
+    ],
+    "quadruples_49_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_49_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_49_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_50_0": [
+      [
+        "12",
+        "battery life",
+        "just okay is enough",
+        "other"
+      ],
+      [
+        "12",
+        "fast charging",
+        "just okay is enough",
+        "other"
+      ],
+      [
+        "12",
+        "take pictures",
+        "just okay is enough",
+        "other"
+      ]
+    ],
+    "quadruples_50_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_50_2": [
+      [
+        "12",
+        "processor",
+        "flagship",
+        "pos"
+      ]
+    ],
+    "quadruples_50_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_50_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_50_5": [
+      [
+        "Mi 8",
+        "battery life",
+        "bad",
+        "neg"
+      ],
+      [
+        "Mi 8",
+        "memory",
+        "lack",
+        "neg"
+      ]
+    ],
+    "quadruples_50_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_50_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_51_0": [
+      [
+        "Meizu 18 series",
+        "camera optimization",
+        "opened the gap",
+        "neg"
+      ],
+      [
+        "Meizu 18 series",
+        "design",
+        "excellent",
+        "pos"
+      ],
+      [
+        "Meizu 18 series",
+        "experience",
+        "excellent",
+        "pos"
+      ],
+      [
+        "Meizu 18 series",
+        "screen",
+        "excellent",
+        "pos"
+      ]
+    ],
+    "quadruples_51_1": [
+      [
+        "Huawei",
+        "photo and video experience",
+        "better",
+        "neg"
+      ],
+      [
+        "Meizu",
+        "motor experience",
+        "better",
+        "pos"
+      ],
+      [
+        "Meizu",
+        "photo and video experience",
+        "better",
+        "pos"
+      ],
+      [
+        "Meizu",
+        "photo effect",
+        "average",
+        "neg"
+      ],
+      [
+        "Meizu",
+        "small window experience",
+        "first-class",
+        "pos"
+      ]
+    ],
+    "quadruples_51_2": [
+      [
+        "Meizu",
+        "actual experience",
+        "not as good as",
+        "pos"
+      ]
+    ],
+    "quadruples_51_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_51_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_51_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_0": [
+      [
+        "One plus",
+        "old model",
+        "hard to say",
+        "neg"
+      ]
+    ],
+    "quadruples_52_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_4": [
+      [
+        "One plus 5",
+        "9.08 system",
+        "smooth",
+        "pos"
+      ]
+    ],
+    "quadruples_52_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_9": [
+      [
+        "one plus 7",
+        "battery life",
+        "bad",
+        "neg"
+      ]
+    ],
+    "quadruples_53_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_53_1": [
+      [
+        "Huawei nova7s",
+        "functionality",
+        "strong",
+        "pos"
+      ],
+      [
+        "Huawei nova7s",
+        "playing games",
+        "doesn't get stuck",
+        "pos"
+      ],
+      [
+        "Huawei nova7s",
+        "vpn",
+        "easy to use",
+        "pos"
+      ]
+    ],
+    "quadruples_53_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_53_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_53_4": [
+      [
+        "7 se",
+        "screen effect",
+        "better",
+        "pos"
+      ],
+      [
+        "Honor",
+        "screen effect",
+        "better",
+        "neg"
+      ]
+    ],
+    "quadruples_53_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_54_0": [
+      [
+        "iphone 11",
+        "network will be disconnected",
+        "It's annoying",
+        "neg"
+      ],
+      [
+        "iphone 11",
+        "play games",
+        "too hot",
+        "neg"
+      ]
+    ],
+    "quadruples_54_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_54_2": [
+      [
+        "Apple 11",
+        "signal",
+        "sucks",
+        "neg"
+      ]
+    ],
+    "quadruples_54_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_54_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_54_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_54_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_54_7": [
+      [
+        "11",
+        "signal",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_55_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_55_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_55_2": [
+      [
+        "Oppo",
+        "quality control",
+        "good",
+        "pos"
+      ],
+      [
+        "Oppo",
+        "texture",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_55_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_55_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_55_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_55_6": [
+      [
+        "mate series",
+        "appearance",
+        "much better",
+        "pos"
+      ]
+    ],
+    "quadruples_55_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_56_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_56_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_56_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_56_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_56_4": [
+      [
+        "Changxiang",
+        "configuration",
+        "poor",
+        "neg"
+      ],
+      [
+        "Huawei",
+        "system",
+        "indeed relatively stable",
+        "pos"
+      ]
+    ],
+    "quadruples_56_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_56_6": [
+      [
+        "Huawei",
+        "system",
+        "stable",
+        "pos"
+      ]
+    ],
+    "quadruples_56_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_56_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_57_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_57_1": [
+      [
+        "p40pro",
+        "90hz",
+        "well optimized",
+        "pos"
+      ],
+      [
+        "p40pro",
+        "Taking photo",
+        "stable",
+        "pos"
+      ],
+      [
+        "p40pro",
+        "workmanship",
+        "excellent",
+        "pos"
+      ]
+    ],
+    "quadruples_57_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_57_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_57_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_57_5": [
+      [
+        "mate40p",
+        "feels",
+        "too bad",
+        "neg"
+      ],
+      [
+        "mate40p",
+        "functions",
+        "full",
+        "pos"
+      ]
+    ],
+    "quadruples_57_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_57_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_58_0": [
+      [
+        "12 series",
+        "battery life",
+        "long",
+        "other"
+      ]
+    ],
+    "quadruples_58_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_58_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_58_3": [
+      [
+        "12 series",
+        "feels",
+        "so good",
+        "pos"
+      ]
+    ],
+    "quadruples_58_4": [
+      [
+        "civi",
+        "battery life",
+        "best",
+        "pos"
+      ]
+    ],
+    "quadruples_58_5": [
+      [
+        "civi",
+        "camera",
+        "improve",
+        "other"
+      ]
+    ],
+    "quadruples_58_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_59_0": [
+      [
+        "20Pro",
+        "photography",
+        "peak",
+        "pos"
+      ],
+      [
+        "20pro",
+        "photography",
+        "peak",
+        "pos"
+      ],
+      [
+        "30Pro+",
+        "photography",
+        "peak",
+        "pos"
+      ],
+      [
+        "30pro+",
+        "photography",
+        "peak",
+        "pos"
+      ],
+      [
+        "V30Pro",
+        "photography",
+        "peak",
+        "pos"
+      ]
+    ],
+    "quadruples_59_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_59_2": [
+      [
+        "Honor 30Pro+",
+        "battery life",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_59_3": [
+      [
+        "Honor 30Pro+",
+        "battery life",
+        "bad",
+        "neg"
+      ],
+      [
+        "Honor 30Pro+",
+        "battery",
+        "88 already",
+        "neg"
+      ]
+    ],
+    "quadruples_59_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_59_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_59_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_60_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_60_1": [
+      [
+        "Snapdragon 778g",
+        "daily use",
+        "enough",
+        "pos"
+      ],
+      [
+        "z5",
+        "battery life",
+        "excellent",
+        "pos"
+      ]
+    ],
+    "quadruples_60_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_60_3": [
+      [
+        "778",
+        "processor",
+        "enough",
+        "other"
+      ]
+    ],
+    "quadruples_60_4": [
+      [
+        "Redmi K40",
+        "performance",
+        "good",
+        "pos"
+      ],
+      [
+        "neo5",
+        "camera",
+        "good",
+        "pos"
+      ],
+      [
+        "z5",
+        "battery life",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_60_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_60_6": [
+      [
+        "neo5se",
+        "charges",
+        "fast",
+        "pos"
+      ]
+    ],
+    "quadruples_61_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_61_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_61_2": [
+      [
+        "11pm",
+        "battery life",
+        "better",
+        "pos"
+      ],
+      [
+        "one plus 7 pro",
+        "battery life",
+        "better",
+        "neg"
+      ]
+    ],
+    "quadruples_61_3": [
+      [
+        "Apple pm",
+        "battery life",
+        "good",
+        "pos"
+      ],
+      [
+        "Mi 10",
+        "power consumption",
+        "stronger than",
+        "pos"
+      ]
+    ],
+    "quadruples_61_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_61_5": [
+      [
+        "Mi 10 Extreme Commemorative Edition",
+        "charging",
+        "awesome",
+        "pos"
+      ]
+    ],
+    "quadruples_61_6": [
+      [
+        "Mi 10 Extreme Commemorative Edition",
+        "play games",
+        "consume power fast",
+        "neg"
+      ]
+    ],
+    "quadruples_61_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_61_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_62_0": [
+      [
+        "iQOO5",
+        "photography",
+        "most powerful",
+        "pos"
+      ]
+    ],
+    "quadruples_62_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_62_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_62_3": [
+      [
+        "gn1",
+        "aperture",
+        "bigger",
+        "pos"
+      ]
+    ],
+    "quadruples_62_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_62_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_62_6": [
+      [
+        "iQOO5",
+        "screen",
+        "been upgraded",
+        "pos"
+      ]
+    ],
+    "quadruples_62_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_63_0": [
+      [
+        "Apple",
+        "battery",
+        "loses power very quickly",
+        "neg"
+      ],
+      [
+        "Xiaomi Mi 9",
+        "battery",
+        "loses power very quickly",
+        "neg"
+      ],
+      [
+        "Xiaomi Mi 9",
+        "quality",
+        "too bad",
+        "neg"
+      ]
+    ],
+    "quadruples_63_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_63_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_63_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_63_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_63_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_63_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_63_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_64_0": [
+      [
+        "vivo",
+        "Small settings",
+        "very good",
+        "pos"
+      ],
+      [
+        "vivo",
+        "battery life",
+        "very good",
+        "pos"
+      ],
+      [
+        "vivo",
+        "camera",
+        "very good",
+        "pos"
+      ],
+      [
+        "vivo",
+        "feels",
+        "very smooth to use",
+        "pos"
+      ],
+      [
+        "vivo",
+        "game",
+        "very smooth",
+        "pos"
+      ],
+      [
+        "vivo",
+        "hot",
+        "not",
+        "neg"
+      ]
+    ],
+    "quadruples_64_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_64_2": [
+      [
+        "oppo",
+        "cost performance",
+        "not high",
+        "neg"
+      ],
+      [
+        "vivo",
+        "cost performance",
+        "not high",
+        "neg"
+      ],
+      [
+        "vivo",
+        "memory",
+        "never been stuck",
+        "pos"
+      ],
+      [
+        "vivo",
+        "water",
+        "used as usual",
+        "pos"
+      ]
+    ],
+    "quadruples_64_3": [
+      [
+        "vivo",
+        "dropped",
+        "not broken",
+        "pos"
+      ],
+      [
+        "vivo",
+        "water",
+        "not broken",
+        "pos"
+      ]
+    ],
+    "quadruples_64_4": [
+      [
+        "vivo",
+        "battery life",
+        "very poor",
+        "neg"
+      ]
+    ],
+    "quadruples_64_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_64_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_65_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_65_1": [
+      [
+        "OnePR 9Pro",
+        "battery life",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_65_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_65_3": [
+      [
+        "OnePlus 9P",
+        "heat",
+        "hot",
+        "neg"
+      ],
+      [
+        "OnePlus 9P",
+        "power consumption",
+        "very large",
+        "neg"
+      ]
+    ],
+    "quadruples_65_4": [
+      [
+        "x3",
+        "battery life",
+        "OK",
+        "pos"
+      ]
+    ],
+    "quadruples_65_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_66_0": [
+      [
+        "Mi 6",
+        "screen",
+        "average",
+        "neg"
+      ],
+      [
+        "Mi 6",
+        "workmanship",
+        "poor",
+        "neg"
+      ],
+      [
+        "mate20p",
+        "screen",
+        "very strange",
+        "neg"
+      ]
+    ],
+    "quadruples_66_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_66_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_66_3": [
+      [
+        "mate20pro",
+        "design",
+        "advanced",
+        "pos"
+      ],
+      [
+        "mate20pro",
+        "shortcomings",
+        "no obvious",
+        "pos"
+      ]
+    ],
+    "quadruples_66_4": [
+      [
+        "note8",
+        "hardware",
+        "not have much advantage",
+        "other"
+      ]
+    ],
+    "quadruples_66_5": [
+      [
+        "Mi 6",
+        "battery",
+        "a bit small",
+        "neg"
+      ],
+      [
+        "Mi 6",
+        "price",
+        "invincible",
+        "pos"
+      ]
+    ],
+    "quadruples_67_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_67_1": [
+      [
+        "11",
+        "battery",
+        "not good",
+        "neg"
+      ],
+      [
+        "11",
+        "last LCD screen",
+        "not bad",
+        "pos"
+      ],
+      [
+        "11",
+        "signal",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_67_2": [
+      [
+        "11",
+        "Signal",
+        "tortured",
+        "neg"
+      ],
+      [
+        "11",
+        "battery",
+        "tortured",
+        "neg"
+      ],
+      [
+        "11",
+        "fake background",
+        "tortured",
+        "neg"
+      ],
+      [
+        "11",
+        "wide-angle lens",
+        "tortured",
+        "neg"
+      ]
+    ],
+    "quadruples_67_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_67_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_67_5": [
+      [
+        "11",
+        "screen",
+        "nothing to say",
+        "neg"
+      ],
+      [
+        "iPhone",
+        "battery",
+        "fastest damaged",
+        "neg"
+      ],
+      [
+        "iPhone",
+        "taking pictures",
+        "uncomfortable",
+        "neg"
+      ]
+    ],
+    "quadruples_67_6": [
+      [
+        "11",
+        "performance",
+        "no problem",
+        "other"
+      ],
+      [
+        "11",
+        "power consumption",
+        "fast",
+        "neg"
+      ]
+    ],
+    "quadruples_68_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_68_1": [
+      [
+        "OnePlus",
+        "texture",
+        "better",
+        "pos"
+      ],
+      [
+        "Xiaomi",
+        "texture",
+        "better",
+        "neg"
+      ]
+    ],
+    "quadruples_68_2": [
+      [
+        "Xiaomi",
+        "texture",
+        "up",
+        "pos"
+      ]
+    ],
+    "quadruples_68_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_68_4": [
+      [
+        "one plus 6",
+        "experience",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_68_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_69_0": [
+      [
+        "Xiaomi",
+        "Taking pictures",
+        "sucks",
+        "neg"
+      ]
+    ],
+    "quadruples_69_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_69_2": [
+      [
+        "Xiaomi",
+        "software optimization",
+        "sucks",
+        "neg"
+      ]
+    ],
+    "quadruples_69_3": [
+      [
+        "Xiaomi",
+        "Optimization",
+        "weakness",
+        "neg"
+      ]
+    ],
+    "quadruples_69_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_69_5": [
+      [
+        "Xiaomi",
+        "taking pictures",
+        "bad",
+        "neg"
+      ]
+    ],
+    "quadruples_69_6": [
+      [
+        "k40",
+        "pictures",
+        "better",
+        "neg"
+      ],
+      [
+        "neo5",
+        "pictures",
+        "better",
+        "pos"
+      ]
+    ],
+    "quadruples_69_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_69_8": [
+      [
+        "neo5",
+        "camera",
+        "reputation",
+        "pos"
+      ]
+    ],
+    "quadruples_69_9": [
+      [
+        "Xiaomi 11",
+        "camera",
+        "beats",
+        "pos"
+      ]
+    ],
+    "quadruples_70_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_70_1": [
+      [
+        "Xiaomi",
+        "battery",
+        "bad",
+        "neg"
+      ]
+    ],
+    "quadruples_70_2": [
+      [
+        "Huawei",
+        "usage cycle",
+        "too long",
+        "other"
+      ]
+    ],
+    "quadruples_70_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_70_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_70_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_71_0": [
+      [
+        "13 Pro Max",
+        "battery life",
+        "difference",
+        "pos"
+      ],
+      [
+        "13 Pro",
+        "battery life",
+        "difference",
+        "neg"
+      ]
+    ],
+    "quadruples_71_1": [
+      [
+        "13Pro",
+        "battery life",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_71_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_71_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_71_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_71_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_71_6": [
+      [
+        "13",
+        "battery life",
+        "not as good as",
+        "pos"
+      ],
+      [
+        "13pro",
+        "battery life",
+        "not as good as",
+        "neg"
+      ],
+      [
+        "13pro",
+        "battery",
+        "smaller",
+        "neg"
+      ]
+    ],
+    "quadruples_72_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_72_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_72_2": [
+      [
+        "Exploration Edition",
+        "battery life",
+        "better",
+        "neg"
+      ],
+      [
+        "NEO2",
+        "battery life",
+        "better",
+        "pos"
+      ]
+    ],
+    "quadruples_72_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_72_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_72_5": [
+      [
+        "Meizu 17Pro",
+        "taking pictures",
+        "okay",
+        "other"
+      ],
+      [
+        "Mi 10s",
+        "taking pictures",
+        "okay",
+        "other"
+      ],
+      [
+        "X60",
+        "taking pictures",
+        "okay",
+        "other"
+      ],
+      [
+        "iqooneo5",
+        "taking pictures",
+        "okay",
+        "other"
+      ]
+    ],
+    "quadruples_73_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_73_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_73_2": [
+      [
+        "10U",
+        "screen",
+        "doesn't feel slender",
+        "neg"
+      ]
+    ],
+    "quadruples_73_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_73_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_73_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_73_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_74_0": [
+      [
+        "Xiaomi",
+        "battery",
+        "too like chicken ribs",
+        "neg"
+      ],
+      [
+        "Xiaomi",
+        "price",
+        "okay",
+        "other"
+      ]
+    ],
+    "quadruples_74_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_74_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_74_3": [
+      [
+        "Mi 10",
+        "screen",
+        "rubbish blind",
+        "neg"
+      ]
+    ],
+    "quadruples_74_4": [
+      [
+        "Xiaomi",
+        "battery life",
+        "too poor",
+        "neg"
+      ],
+      [
+        "Xiaomi",
+        "configuration",
+        "high",
+        "pos"
+      ],
+      [
+        "Xiaomi",
+        "price",
+        "kind",
+        "pos"
+      ]
+    ],
+    "quadruples_74_5": [
+      [
+        "Xiaomi",
+        "battery life",
+        "poor",
+        "other"
+      ]
+    ],
+    "quadruples_74_6": [
+      [
+        "11U",
+        "battery life",
+        "not very good",
+        "neg"
+      ]
+    ],
+    "quadruples_74_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_74_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_75_0": [
+      [
+        "Honor",
+        "charging",
+        "fastest",
+        "pos"
+      ],
+      [
+        "Honor",
+        "heat dissipation",
+        "best",
+        "pos"
+      ],
+      [
+        "Honor",
+        "taking pictures",
+        "ok",
+        "pos"
+      ]
+    ],
+    "quadruples_75_1": [
+      [
+        "980",
+        "battery life",
+        "regardless",
+        "neg"
+      ],
+      [
+        "980",
+        "heat",
+        "regardless",
+        "neg"
+      ]
+    ],
+    "quadruples_75_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_75_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_75_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_75_5": [
+      [
+        "Honor",
+        "Taking pictures",
+        "beat",
+        "pos"
+      ],
+      [
+        "Honor",
+        "charging",
+        "not as fast as",
+        "neg"
+      ],
+      [
+        "Honor",
+        "heat dissipation",
+        "beat",
+        "pos"
+      ],
+      [
+        "Honor",
+        "screen",
+        "less curved",
+        "neg"
+      ],
+      [
+        "fx",
+        "Taking pictures",
+        "beat",
+        "neg"
+      ],
+      [
+        "fx",
+        "screen",
+        "less curved",
+        "pos"
+      ],
+      [
+        "supercharged version of the fx",
+        "charging",
+        "not as fast as",
+        "pos"
+      ]
+    ],
+    "quadruples_76_0": [
+      [
+        "Honor 50",
+        "photos",
+        "very good",
+        "pos"
+      ],
+      [
+        "Honor 50",
+        "videos",
+        "very good",
+        "pos"
+      ]
+    ],
+    "quadruples_76_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_76_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_76_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_76_4": [
+      [
+        "Honor 50",
+        "appearance",
+        "Ugly",
+        "neg"
+      ]
+    ],
+    "quadruples_76_5": [
+      [
+        "Mi",
+        "high-end",
+        "doesn't deserve",
+        "neg"
+      ],
+      [
+        "iqoo",
+        "design",
+        "ugly",
+        "neg"
+      ]
+    ],
+    "quadruples_77_0": [
+      [
+        "xs",
+        "border",
+        "can't accept",
+        "neg"
+      ]
+    ],
+    "quadruples_77_1": [
+      [
+        "xs",
+        "battery life",
+        "comfortable",
+        "pos"
+      ],
+      [
+        "xs",
+        "screen",
+        "comfortable",
+        "pos"
+      ]
+    ],
+    "quadruples_77_2": [
+      [
+        "lcd",
+        "screen",
+        "more comfortable",
+        "pos"
+      ]
+    ],
+    "quadruples_77_3": [
+      [
+        "iPhone X",
+        "screen",
+        "eyes are tired and sore",
+        "neg"
+      ],
+      [
+        "xr",
+        "screen",
+        "comfortable",
+        "pos"
+      ]
+    ],
+    "quadruples_77_4": [
+      [
+        "Apple",
+        "battery",
+        "break down",
+        "neg"
+      ]
+    ],
+    "quadruples_77_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_78_0": [
+      [
+        "Mi 10Ultra",
+        "lenses",
+        "useful",
+        "pos"
+      ]
+    ],
+    "quadruples_78_1": [
+      [
+        "Mi 10Ultra",
+        "taking pictures",
+        "better",
+        "pos"
+      ]
+    ],
+    "quadruples_78_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_78_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_78_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_78_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_78_6": [
+      [
+        "Mi 10Ultra",
+        "telephoto",
+        "advantage",
+        "pos"
+      ]
+    ],
+    "quadruples_78_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_1": [
+      [
+        "Xiaomi",
+        "quality control",
+        "bad",
+        "neg"
+      ],
+      [
+        "Xiaomi",
+        "system",
+        "difficult the system is to use",
+        "neg"
+      ]
+    ],
+    "quadruples_79_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_9": [
+      [
+        "Mi 6",
+        "games",
+        "can be played",
+        "pos"
+      ]
+    ],
+    "quadruples_80_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_80_1": [
+      [
+        "Huawei",
+        "quality",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_80_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_80_3": [
+      [
+        "Meizu",
+        "system optimization capabilities",
+        "trust",
+        "pos"
+      ]
+    ],
+    "quadruples_80_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_80_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_80_6": [
+      [
+        "Samsung",
+        "continuity of animation",
+        "very good",
+        "pos"
+      ],
+      [
+        "Samsung",
+        "system stability",
+        "very good",
+        "pos"
+      ]
+    ],
+    "quadruples_81_0": [
+      [
+        "12p",
+        "positioning",
+        "quite embarrassing",
+        "neg"
+      ]
+    ],
+    "quadruples_81_1": [
+      [
+        "pm",
+        "battery life",
+        "better",
+        "pos"
+      ],
+      [
+        "pm",
+        "photography",
+        "better",
+        "pos"
+      ],
+      [
+        "pm",
+        "screen",
+        "bigger",
+        "pos"
+      ]
+    ],
+    "quadruples_81_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_81_3": [
+      [
+        "pm",
+        "photography",
+        "interested",
+        "pos"
+      ]
+    ],
+    "quadruples_81_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_81_5": [
+      [
+        "PM",
+        "camera",
+        "want to buy",
+        "pos"
+      ]
+    ],
+    "quadruples_82_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_82_1": [
+      [
+        "Nubia",
+        "photography",
+        "nothing to say",
+        "pos"
+      ]
+    ],
+    "quadruples_82_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_82_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_82_4": [
+      [
+        "Nubia",
+        "system",
+        "better and better",
+        "pos"
+      ]
+    ],
+    "quadruples_82_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_0": [
+      [
+        "Huawei",
+        "system",
+        "not very smooth",
+        "neg"
+      ]
+    ],
+    "quadruples_83_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_5": [
+      [
+        "Xiaomi",
+        "killing the backstage",
+        "famous",
+        "neg"
+      ]
+    ],
+    "quadruples_83_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_8": [
+      [
+        "Mi 10",
+        "camera",
+        "except for",
+        "neg"
+      ],
+      [
+        "Mi 10",
+        "thickness",
+        "except for",
+        "neg"
+      ],
+      [
+        "Mi 10",
+        "weight",
+        "except for",
+        "neg"
+      ]
+    ],
+    "quadruples_83_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_84_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_84_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_84_2": [
+      [
+        "mate40pro",
+        "price",
+        "not a big problem",
+        "other"
+      ],
+      [
+        "p50 pro",
+        "price",
+        "not a big problem",
+        "other"
+      ]
+    ],
+    "quadruples_84_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_84_4": [
+      [
+        "mate40Pro 5G",
+        "daily",
+        "very comfortable",
+        "pos"
+      ]
+    ],
+    "quadruples_84_5": [
+      [
+        "hw",
+        "daily",
+        "smoothness",
+        "pos"
+      ]
+    ],
+    "quadruples_85_0": [
+      [
+        "iqoo",
+        "bright screen fast",
+        "quite strong",
+        "pos"
+      ],
+      [
+        "iqoo",
+        "playing games",
+        "can hardly charge",
+        "neg"
+      ]
+    ],
+    "quadruples_85_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_85_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_85_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_85_4": [
+      [
+        "iqoo",
+        "Play games",
+        "can't work",
+        "neg"
+      ]
+    ],
+    "quadruples_85_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_85_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_86_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_86_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_86_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_86_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_86_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_86_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_86_6": [
+      [
+        "18",
+        "feel",
+        "absolutely top",
+        "pos"
+      ]
+    ],
+    "quadruples_86_7": [
+      [
+        "Meizu",
+        "camera",
+        "a bit bad",
+        "neg"
+      ]
+    ],
+    "quadruples_86_8": [
+      [
+        "Meizu",
+        "feel",
+        "what I want",
+        "pos"
+      ],
+      [
+        "Meizu",
+        "measurements",
+        "what I want",
+        "pos"
+      ],
+      [
+        "Meizu",
+        "system",
+        "what I want",
+        "pos"
+      ],
+      [
+        "Meizu",
+        "vibration",
+        "what I want",
+        "pos"
+      ]
+    ],
+    "quadruples_87_0": [
+      [
+        "Apple",
+        "performance",
+        "not strong",
+        "pos"
+      ]
+    ],
+    "quadruples_87_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_87_2": [
+      [
+        "Apple",
+        "signal",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_87_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_87_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_87_5": [
+      [
+        "Apple",
+        "signal",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_87_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_87_7": [
+      [
+        "Apple",
+        "power consumption",
+        "can't hold",
+        "neg"
+      ]
+    ],
+    "quadruples_87_8": [
+      [
+        "Apple",
+        "optimized",
+        "well",
+        "pos"
+      ]
+    ],
+    "quadruples_87_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_88_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_88_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_88_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_88_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_88_4": [
+      [
+        "buying pro",
+        "battery",
+        "too small",
+        "neg"
+      ]
+    ],
+    "quadruples_88_5": [
+      [
+        "mini",
+        "battery",
+        "too small",
+        "neg"
+      ]
+    ],
+    "quadruples_88_6": [
+      [
+        "Mini",
+        "battery",
+        "can't be used",
+        "neg"
+      ]
+    ],
+    "quadruples_88_7": [
+      [
+        "max",
+        "sales",
+        "higher",
+        "pos"
+      ]
+    ],
+    "quadruples_89_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_89_1": [
+      [
+        "K40",
+        "camera",
+        "average",
+        "other"
+      ],
+      [
+        "K40",
+        "fast charging",
+        "a bit slow",
+        "neg"
+      ],
+      [
+        "K40",
+        "system",
+        "not very good",
+        "neg"
+      ],
+      [
+        "Mi 10s",
+        "angle of the screen",
+        "not good",
+        "neg"
+      ],
+      [
+        "Mi 10s",
+        "audio",
+        "better",
+        "pos"
+      ],
+      [
+        "Mi 10s",
+        "fast charging",
+        "not very good",
+        "neg"
+      ],
+      [
+        "Mi 10s",
+        "system",
+        "not very good",
+        "neg"
+      ],
+      [
+        "Mi 10s",
+        "video",
+        "better",
+        "pos"
+      ]
+    ],
+    "quadruples_89_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_89_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_89_4": [
+      [
+        "exploration version",
+        "curved screens",
+        "don't like",
+        "neg"
+      ],
+      [
+        "neo5",
+        "screen",
+        "not satisfied",
+        "neg"
+      ]
+    ],
+    "quadruples_89_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_90_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_90_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_90_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_90_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_90_4": [
+      [
+        "Master Exploration Edition",
+        "texture",
+        "good",
+        "pos"
+      ],
+      [
+        "Master Exploration Edition",
+        "workmanship",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_90_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_90_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_90_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_91_0": [
+      [
+        "Hongmeng",
+        "drop power",
+        "very fast",
+        "neg"
+      ]
+    ],
+    "quadruples_91_1": [
+      [
+        "mate40pro+",
+        "battery life",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_91_2": [
+      [
+        "Honor 30Pro",
+        "power drop",
+        "fast",
+        "neg"
+      ]
+    ],
+    "quadruples_91_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_91_4": [
+      [
+        "Hongmeng",
+        "battery life",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_91_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_92_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_92_1": [
+      [
+        "CIVI",
+        "level",
+        "okay",
+        "other"
+      ]
+    ],
+    "quadruples_92_2": [
+      [
+        "civi",
+        "camera",
+        "strangely placed",
+        "neg"
+      ],
+      [
+        "civi",
+        "logo",
+        "strangely placed",
+        "neg"
+      ],
+      [
+        "civi",
+        "looks",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_92_3": [
+      [
+        "civi",
+        "back",
+        "worst thing",
+        "neg"
+      ],
+      [
+        "civi",
+        "middle frame",
+        "worst thing",
+        "neg"
+      ],
+      [
+        "oppo r15",
+        "good-looking",
+        "best",
+        "pos"
+      ],
+      [
+        "oppo r15",
+        "workmanship",
+        "best",
+        "pos"
+      ]
+    ],
+    "quadruples_92_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_92_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_93_0": [
+      [
+        "k40 game version",
+        "craftsmanship",
+        "level of other flagship machines",
+        "pos"
+      ],
+      [
+        "redmi k20 series",
+        "borders",
+        "narrower",
+        "pos"
+      ]
+    ],
+    "quadruples_93_1": [
+      [
+        "Redmi",
+        "border",
+        "stop the aircraft carrier",
+        "neg"
+      ]
+    ],
+    "quadruples_93_2": [
+      [
+        "k30u",
+        "appearance",
+        "amazing",
+        "pos"
+      ],
+      [
+        "k40",
+        "texture",
+        "top",
+        "pos"
+      ],
+      [
+        "redmi",
+        "texture",
+        "does not as pay attention",
+        "neg"
+      ]
+    ],
+    "quadruples_93_3": [
+      [
+        "k20p",
+        "workmanship",
+        "completely no problem",
+        "pos"
+      ],
+      [
+        "k30p",
+        "workmanship",
+        "completely no problem",
+        "pos"
+      ],
+      [
+        "k40",
+        "work configuration",
+        "castrated",
+        "neg"
+      ]
+    ],
+    "quadruples_93_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_93_5": [
+      [
+        "MIX4",
+        "border",
+        "quite narrow",
+        "neg"
+      ]
+    ],
+    "quadruples_93_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_93_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_94_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_94_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_94_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_94_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_94_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_94_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_95_0": [
+      [
+        "Xiaomi 10",
+        "fast charging",
+        "more",
+        "neg"
+      ],
+      [
+        "Xiaomi 10",
+        "system",
+        "not as good as",
+        "pos"
+      ],
+      [
+        "Xiaomi 10",
+        "taking pictures",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_95_1": [
+      [
+        "iQOOUI",
+        "system",
+        "not sure",
+        "other"
+      ]
+    ],
+    "quadruples_95_2": [
+      [
+        "Honor",
+        "system",
+        "not as good as",
+        "pos"
+      ]
+    ],
+    "quadruples_95_3": [
+      [
+        "iQOOUI",
+        "system",
+        "not very mature",
+        "other"
+      ],
+      [
+        "iQOOUI",
+        "system",
+        "relatively simple",
+        "other"
+      ],
+      [
+        "vivo",
+        "system",
+        "not very good",
+        "neg"
+      ]
+    ],
+    "quadruples_95_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_95_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_3": [
+      [
+        "mix3",
+        "battery life",
+        "not very",
+        "neg"
+      ]
+    ],
+    "quadruples_96_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_8": [
+      [
+        "Huawei",
+        "system",
+        "garbage",
+        "neg"
+      ]
+    ],
+    "quadruples_97_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_97_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_97_2": [
+      [
+        "iqoo5pro",
+        "depress highlights",
+        "rubbish",
+        "neg"
+      ]
+    ],
+    "quadruples_97_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_97_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_97_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_98_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_98_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_98_2": [
+      [
+        "Apple",
+        "battery life",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_98_3": [
+      [
+        "Apple",
+        "battery life",
+        "invincible",
+        "pos"
+      ],
+      [
+        "Apple",
+        "battery life",
+        "pain points",
+        "neg"
+      ],
+      [
+        "Apple",
+        "signal",
+        "not very good",
+        "neg"
+      ],
+      [
+        "Apple",
+        "signal",
+        "pain points",
+        "neg"
+      ]
+    ],
+    "quadruples_98_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_98_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_98_6": [
+      [
+        "iPhone 13 promax",
+        "battery life",
+        "world's best",
+        "pos"
+      ]
+    ],
+    "quadruples_99_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_99_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_99_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_99_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_99_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_99_5": [
+      [
+        "One plus",
+        "screen",
+        "a bit hot",
+        "neg"
+      ]
+    ],
+    "quadruples_99_6": [
+      "statement-non-opinion"
+    ]
+  },
+  "pred": {
+    "quadruples_0_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_0_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_0_2": [
+      [
+        "Master Explorer",
+        "heating",
+        "poor",
+        "neg"
+      ],
+      [
+        "Master Explorer",
+        "performance in battery life",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_0_3": [
+      [
+        "Master Exploration",
+        "appearance",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_0_4": [
+      [
+        "12",
+        "taking photo",
+        "didn't stuck at all",
+        "pos"
+      ],
+      [
+        "12x",
+        "taking photo",
+        "didn't work",
+        "neg"
+      ]
+    ],
+    "quadruples_0_5": [
+      [
+        "12",
+        "battery life",
+        "not work",
+        "neg"
+      ],
+      [
+        "12",
+        "taking pictures",
+        "speed",
+        "pos"
+      ]
+    ],
+    "quadruples_0_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_0_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_0_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_0_9": [
+      [
+        "Xiaoping",
+        "grip",
+        "too comfortable",
+        "pos"
+      ]
+    ],
+    "quadruples_1_0": [
+      [
+        "K20Pro",
+        "weightlifting vertical lens",
+        "endurable",
+        "pos"
+      ]
+    ],
+    "quadruples_1_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_1_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_1_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_1_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_1_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_1_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_1_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_2_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_2_1": [
+      [
+        "11U",
+        "taking pictures",
+        "better",
+        "neg"
+      ],
+      [
+        "X70Pro+",
+        "taking pictures",
+        "better",
+        "pos"
+      ]
+    ],
+    "quadruples_2_2": [
+      [
+        "V",
+        "color",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_2_3": [
+      [
+        "V",
+        "Color",
+        "pulled",
+        "neg"
+      ]
+    ],
+    "quadruples_2_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_2_5": [
+      [
+        "X70pro+",
+        "sales",
+        "well",
+        "pos"
+      ]
+    ],
+    "quadruples_2_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_2_7": [
+      [
+        "Vivo",
+        "photography",
+        "strong",
+        "pos"
+      ]
+    ],
+    "quadruples_2_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_2_9": [
+      [
+        "vivo",
+        "photo",
+        "very strong",
+        "pos"
+      ]
+    ],
+    "quadruples_3_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_3_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_3_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_3_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_3_4": [
+      [
+        "Black Shark 4",
+        "game mobile phone field",
+        "definitely invincible",
+        "pos"
+      ],
+      [
+        "Black Shark 4",
+        "taking pictures",
+        "too bad",
+        "neg"
+      ]
+    ],
+    "quadruples_3_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_4_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_4_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_4_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_4_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_4_4": [
+      [
+        "598",
+        "sensor",
+        "bad",
+        "neg"
+      ]
+    ],
+    "quadruples_4_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_4_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_4_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_4_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_5_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_5_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_5_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_5_3": [
+      [
+        "Samsung's Mate",
+        "curvature",
+        "too large",
+        "neg"
+      ],
+      [
+        "Samsung's Mate",
+        "texture",
+        "better",
+        "pos"
+      ],
+      [
+        "40Pro",
+        "texture",
+        "better",
+        "neg"
+      ]
+    ],
+    "quadruples_5_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_5_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_6_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_6_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_6_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_6_3": [
+      [
+        "IQOO",
+        "system update",
+        "slow",
+        "neg"
+      ]
+    ],
+    "quadruples_6_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_6_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_6_6": [
+      [
+        "9R",
+        "memory",
+        "big",
+        "pos"
+      ],
+      [
+        "9R",
+        "storage",
+        "big",
+        "pos"
+      ]
+    ],
+    "quadruples_6_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_2": [
+      [
+        "Mate30",
+        "screen",
+        "broke",
+        "neg"
+      ]
+    ],
+    "quadruples_7_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_7_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_8_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_8_1": [
+      [
+        "10U",
+        "game",
+        "better",
+        "pos"
+      ],
+      [
+        "10p",
+        "game",
+        "better",
+        "neg"
+      ]
+    ],
+    "quadruples_8_2": [
+      [
+        "10U",
+        "performance",
+        "not so good",
+        "neg"
+      ]
+    ],
+    "quadruples_8_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_8_4": [
+      [
+        "10u",
+        "camera's functional performance",
+        "covered the gap",
+        "pos"
+      ],
+      [
+        "10u",
+        "charging",
+        "greatly alleviate the impact of battery wear and tear",
+        "pos"
+      ]
+    ],
+    "quadruples_8_5": [
+      [
+        "10u",
+        "charging",
+        "weakened",
+        "neg"
+      ],
+      [
+        "10u",
+        "performance",
+        "weakened",
+        "neg"
+      ]
+    ],
+    "quadruples_8_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_8_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_8_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_9_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_9_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_9_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_9_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_9_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_9_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_9_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_9_7": [
+      [
+        "Xiaomi 11",
+        "daily use",
+        "not as smooth as",
+        "neg"
+      ],
+      [
+        "blue factory X70",
+        "daily use",
+        "not as smooth as",
+        "pos"
+      ]
+    ],
+    "quadruples_9_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_10_0": [
+      [
+        "RealMe",
+        "system",
+        "too crappy",
+        "neg"
+      ]
+    ],
+    "quadruples_10_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_10_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_10_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_10_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_10_5": [
+      [
+        "MIUI",
+        "fineness of the animation",
+        "not good enough",
+        "pos"
+      ],
+      [
+        "Realme",
+        "fineness of the animation",
+        "very crappy",
+        "neg"
+      ],
+      [
+        "Realme",
+        "small windows",
+        "not good enough",
+        "neg"
+      ]
+    ],
+    "quadruples_10_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_10_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_11_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_11_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_11_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_11_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_11_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_11_5": [
+      [
+        "Huawei",
+        "signal",
+        "very good",
+        "pos"
+      ]
+    ],
+    "quadruples_11_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_12_0": [
+      [
+        "IQOO",
+        "signal",
+        "bad",
+        "neg"
+      ]
+    ],
+    "quadruples_12_1": [
+      [
+        "Android flagship version",
+        "signal",
+        "not feel any difference",
+        "other"
+      ],
+      [
+        "IQOO",
+        "signal",
+        "not so bad",
+        "other"
+      ]
+    ],
+    "quadruples_12_2": [
+      [
+        "iQOO",
+        "signal",
+        "bad",
+        "neg"
+      ]
+    ],
+    "quadruples_12_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_12_4": [
+      [
+        "Huawei",
+        "signal",
+        "full",
+        "pos"
+      ],
+      [
+        "Meizu",
+        "signal",
+        "so bad that can't use my WeChat",
+        "neg"
+      ]
+    ],
+    "quadruples_12_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_12_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_13_0": [
+      [
+        "Xiaomi",
+        "experience",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_13_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_13_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_13_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_13_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_13_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_13_6": [
+      [
+        "Huawei's 14S",
+        "screen",
+        "indeed good",
+        "pos"
+      ],
+      [
+        "Huawei's 14S",
+        "workmanship",
+        "indeed good",
+        "pos"
+      ]
+    ],
+    "quadruples_13_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_13_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_13_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_14_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_14_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_14_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_14_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_14_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_14_5": [
+      [
+        "OnePlus",
+        "takes pictures",
+        "suck",
+        "neg"
+      ]
+    ],
+    "quadruples_15_0": [
+      [
+        "18",
+        "endurance",
+        "too bad",
+        "neg"
+      ]
+    ],
+    "quadruples_15_1": [
+      [
+        "12X",
+        "battery life",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_15_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_15_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_15_4": [
+      [
+        "Meizu 18",
+        "battery life",
+        "too bad",
+        "neg"
+      ]
+    ],
+    "quadruples_15_5": [
+      [
+        "12x",
+        "endurance",
+        "suck",
+        "neg"
+      ],
+      [
+        "12x",
+        "heat",
+        "suck",
+        "neg"
+      ]
+    ],
+    "quadruples_15_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_15_7": [
+      [
+        "12X",
+        "battery life",
+        "very good",
+        "pos"
+      ]
+    ],
+    "quadruples_15_8": [
+      [
+        "12x",
+        "screen",
+        "make eyes sour",
+        "other"
+      ]
+    ],
+    "quadruples_15_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_16_0": [
+      [
+        "11ultra",
+        "endurance",
+        "at the forefront",
+        "pos"
+      ]
+    ],
+    "quadruples_16_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_16_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_16_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_16_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_16_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_16_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_16_7": [
+      [
+        "11Pro",
+        "battery life",
+        "not bad",
+        "pos"
+      ]
+    ],
+    "quadruples_16_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_17_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_17_1": [
+      [
+        "Xiaomi",
+        "battery life",
+        "terrible",
+        "neg"
+      ]
+    ],
+    "quadruples_17_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_17_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_17_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_17_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_17_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_18_0": [
+      [
+        "Magic3Pro",
+        "66W single cell",
+        "not have an optical image stabilization",
+        "neg"
+      ],
+      [
+        "Magic3Pro",
+        "main camera",
+        "not have an optical image stabilization",
+        "neg"
+      ]
+    ],
+    "quadruples_18_1": [
+      [
+        "Magic3Pro",
+        "Taking photos",
+        "quite stable",
+        "pos"
+      ]
+    ],
+    "quadruples_18_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_18_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_18_4": [
+      [
+        "glory",
+        "curvature",
+        "strange",
+        "neg"
+      ]
+    ],
+    "quadruples_18_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_18_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_18_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_18_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_18_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_6": [
+      [
+        "iPhone7",
+        "battery",
+        "fine",
+        "pos"
+      ]
+    ],
+    "quadruples_19_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_19_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_20_0": [
+      [
+        "Samsung",
+        "Daily photography",
+        "inferior to",
+        "pos"
+      ],
+      [
+        "iPhone",
+        "Daily photography",
+        "inferior to",
+        "pos"
+      ],
+      [
+        "iPhone",
+        "algorith",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_20_1": [
+      [
+        "iPhone",
+        "automatic mode",
+        "not very good",
+        "neg"
+      ]
+    ],
+    "quadruples_20_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_20_3": [
+      [
+        "apple",
+        "photography",
+        "at the bottom",
+        "neg"
+      ],
+      [
+        "apple",
+        "video ability",
+        "boast",
+        "pos"
+      ]
+    ],
+    "quadruples_20_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_20_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_21_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_21_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_21_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_21_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_21_4": [
+      [
+        "x3p",
+        "battery life",
+        "at the bottom",
+        "neg"
+      ]
+    ],
+    "quadruples_21_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_21_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_21_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_22_0": [
+      [
+        "Honor 60",
+        "color",
+        "so cheap",
+        "neg"
+      ],
+      [
+        "Honor 60",
+        "material",
+        "so cheap",
+        "neg"
+      ]
+    ],
+    "quadruples_22_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_22_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_22_3": [
+      [
+        "50",
+        "texture",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_22_4": [
+      [
+        "50",
+        "appearance",
+        "much better",
+        "pos"
+      ],
+      [
+        "50",
+        "texture",
+        "much better",
+        "pos"
+      ]
+    ],
+    "quadruples_22_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_22_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_22_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_23_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_23_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_23_2": [
+      [
+        "Samsung",
+        "charging life",
+        "a bit unbearable",
+        "neg"
+      ]
+    ],
+    "quadruples_23_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_23_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_23_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_23_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_23_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_24_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_24_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_24_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_24_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_24_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_24_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_25_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_25_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_25_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_25_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_25_4": [
+      [
+        "mix4",
+        "MIUI",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_25_5": [
+      [
+        "MIX4",
+        "under-screen fingerprint",
+        "suck",
+        "neg"
+      ]
+    ],
+    "quadruples_26_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_26_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_26_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_26_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_26_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_26_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_26_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_26_7": [
+      [
+        "Meizu",
+        "screen",
+        "not seem to be very solid",
+        "neg"
+      ]
+    ],
+    "quadruples_26_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_27_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_27_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_27_2": [
+      [
+        "13pro",
+        "adaptive refresh",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_27_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_27_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_27_5": [
+      [
+        "Apple",
+        "battery life",
+        "little scared",
+        "neg"
+      ],
+      [
+        "s21",
+        "battery life",
+        "too poor",
+        "neg"
+      ]
+    ],
+    "quadruples_27_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_27_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_27_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_28_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_28_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_28_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_28_3": [
+      [
+        "Meizu",
+        "signal",
+        "poor",
+        "neg"
+      ],
+      [
+        "Meizu",
+        "system",
+        "slow to update",
+        "neg"
+      ]
+    ],
+    "quadruples_28_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_28_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_29_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_29_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_29_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_29_3": [
+      [
+        "Meizu",
+        "signal",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_29_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_29_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_30_0": [
+      [
+        "mate30",
+        "Taking pictures",
+        "suck",
+        "neg"
+      ]
+    ],
+    "quadruples_30_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_30_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_30_3": [
+      [
+        "Apple",
+        "photos",
+        "not as real as",
+        "pos"
+      ],
+      [
+        "p40",
+        "photos",
+        "not as real as",
+        "neg"
+      ]
+    ],
+    "quadruples_30_4": [
+      [
+        "iPhone",
+        "details",
+        "nothing beats",
+        "pos"
+      ],
+      [
+        "iPhone",
+        "signal",
+        "nothing beats",
+        "pos"
+      ],
+      [
+        "mate30",
+        "smearing feeling",
+        "too serious",
+        "neg"
+      ],
+      [
+        "mate30",
+        "take pictures",
+        "bad",
+        "neg"
+      ]
+    ],
+    "quadruples_30_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_31_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_31_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_31_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_31_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_31_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_31_5": [
+      [
+        "11",
+        "lcd",
+        "durable and comfortable",
+        "pos"
+      ],
+      [
+        "11",
+        "oled",
+        "good for watching hdr video",
+        "pos"
+      ],
+      [
+        "13pm",
+        "screen",
+        "shocking",
+        "neg"
+      ]
+    ],
+    "quadruples_32_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_32_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_32_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_32_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_32_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_32_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_32_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_32_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_33_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_33_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_33_2": [
+      [
+        "11U",
+        "charging speed",
+        "not bad",
+        "other"
+      ],
+      [
+        "11U",
+        "performance",
+        "bad",
+        "neg"
+      ],
+      [
+        "11U",
+        "photography",
+        "terrible",
+        "neg"
+      ],
+      [
+        "11U",
+        "photoshoot",
+        "terrible",
+        "neg"
+      ],
+      [
+        "11U",
+        "r corner",
+        "too ugly",
+        "neg"
+      ],
+      [
+        "11U",
+        "screen",
+        "good",
+        "other"
+      ]
+    ],
+    "quadruples_33_3": [
+      [
+        "11u",
+        "photography",
+        "good",
+        "pos"
+      ],
+      [
+        "11u",
+        "pictures",
+        "good",
+        "pos"
+      ],
+      [
+        "11u",
+        "taking pictures",
+        "good",
+        "other"
+      ],
+      [
+        "Apple",
+        "photography",
+        "not as good as",
+        "neg"
+      ],
+      [
+        "Samsung",
+        "photography",
+        "not as good as",
+        "neg"
+      ]
+    ],
+    "quadruples_33_4": [
+      [
+        "11U",
+        "system",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_33_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_33_6": [
+      [
+        "11U",
+        "camera",
+        "freeze",
+        "neg"
+      ],
+      [
+        "11U",
+        "game",
+        "not been optimized",
+        "neg"
+      ],
+      [
+        "11U",
+        "systems",
+        "black screen and no response",
+        "neg"
+      ],
+      [
+        "11U",
+        "zoom",
+        "freeze",
+        "neg"
+      ]
+    ],
+    "quadruples_33_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_33_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_34_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_34_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_34_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_34_3": [
+      [
+        "Huawei",
+        "configuration",
+        "worse",
+        "neg"
+      ],
+      [
+        "Xiaomi",
+        "configuration",
+        "worse",
+        "pos"
+      ],
+      [
+        "Xiaomi",
+        "experience",
+        "far better",
+        "pos"
+      ]
+    ],
+    "quadruples_34_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_34_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_34_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_34_7": [
+      [
+        "p40",
+        "with more than 4000",
+        "suck",
+        "neg"
+      ]
+    ],
+    "quadruples_34_8": [
+      [
+        "p40",
+        "Taking pictures",
+        "hard to say",
+        "other"
+      ]
+    ],
+    "quadruples_35_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_35_1": [
+      [
+        "OnePlus 10Pro",
+        "photo effect",
+        "good",
+        "pos"
+      ],
+      [
+        "Realme",
+        "performance scheduling",
+        "very aggressive",
+        "pos"
+      ],
+      [
+        "iQOO9Pro",
+        "performance scheduling",
+        "more radical",
+        "neg"
+      ],
+      [
+        "iQOO9Pro",
+        "performance scheduling",
+        "most balanced",
+        "pos"
+      ]
+    ],
+    "quadruples_35_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_35_3": [
+      [
+        "OnePlus 10pro",
+        "image",
+        "best",
+        "pos"
+      ],
+      [
+        "iqoo9pro",
+        "performance scheduling",
+        "better",
+        "pos"
+      ]
+    ],
+    "quadruples_35_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_35_5": [
+      [
+        "gt2 pro incense",
+        "game",
+        "very cool",
+        "pos"
+      ],
+      [
+        "gt2 pro incense",
+        "standby",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_36_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_36_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_36_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_36_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_36_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_36_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_36_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_36_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_37_0": [
+      [
+        "PM",
+        "screen",
+        "big",
+        "pos"
+      ]
+    ],
+    "quadruples_37_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_37_2": [
+      [
+        "promax",
+        "sensor anti-shake",
+        "thing",
+        "neg"
+      ]
+    ],
+    "quadruples_37_3": [
+      [
+        "12pro",
+        "cameras",
+        "quite different",
+        "neg"
+      ],
+      [
+        "13pro",
+        "three lenses",
+        "exactly the same",
+        "other"
+      ],
+      [
+        "max",
+        "cameras",
+        "quite different",
+        "pos"
+      ]
+    ],
+    "quadruples_37_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_37_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_38_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_38_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_38_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_38_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_38_4": [
+      [
+        "Honor 50",
+        "camera",
+        "joke",
+        "neg"
+      ],
+      [
+        "Honor 50",
+        "paint",
+        "peels off",
+        "neg"
+      ]
+    ],
+    "quadruples_38_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_38_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_39_0": [
+      [
+        "Huawei",
+        "screen",
+        "broken",
+        "neg"
+      ]
+    ],
+    "quadruples_39_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_39_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_39_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_39_4": [
+      [
+        "Huawei",
+        "high-quality film",
+        "suitable for vlog shooting",
+        "pos"
+      ],
+      [
+        "Huawei",
+        "photo and video recording experience",
+        "good",
+        "pos"
+      ],
+      [
+        "Huawei",
+        "privacy",
+        "better",
+        "pos"
+      ],
+      [
+        "iOS",
+        "APP advertisements",
+        "not randomly induce users to download other messy apps",
+        "pos"
+      ]
+    ],
+    "quadruples_39_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_40_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_40_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_40_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_40_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_40_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_40_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_41_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_41_1": [
+      [
+        "k30pro",
+        "686 optimization",
+        "too bad",
+        "neg"
+      ]
+    ],
+    "quadruples_41_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_41_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_41_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_41_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_41_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_41_7": [
+      [
+        "K30 pro",
+        "screen",
+        "good",
+        "pos"
+      ],
+      [
+        "K30 pro",
+        "taking pictures",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_41_8": [
+      [
+        "K30 pro",
+        "quality",
+        "good",
+        "pos"
+      ],
+      [
+        "K30 pro",
+        "screen",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_42_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_42_1": [
+      [
+        "Huawei",
+        "battery",
+        "too durable",
+        "pos"
+      ]
+    ],
+    "quadruples_42_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_42_3": [
+      [
+        "Huawei",
+        "interface vision",
+        "very strong",
+        "pos"
+      ],
+      [
+        "Huawei",
+        "office functions",
+        "very strong",
+        "pos"
+      ]
+    ],
+    "quadruples_42_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_42_5": [
+      [
+        "Oppo",
+        "personalization",
+        "very good",
+        "pos"
+      ],
+      [
+        "vivo",
+        "intelligence",
+        "very good",
+        "pos"
+      ],
+      [
+        "vivo",
+        "life",
+        "very good",
+        "pos"
+      ],
+      [
+        "vivo",
+        "personalization",
+        "very good",
+        "pos"
+      ]
+    ],
+    "quadruples_42_6": [
+      [
+        "Apple",
+        "experience",
+        "high",
+        "neg"
+      ],
+      [
+        "Huawei",
+        "experience",
+        "high",
+        "neg"
+      ]
+    ],
+    "quadruples_42_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_43_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_43_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_43_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_43_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_43_4": [
+      [
+        "Pro",
+        "workmanship",
+        "ok",
+        "pos"
+      ]
+    ],
+    "quadruples_43_5": [
+      [
+        "9pro",
+        "Aesthetics",
+        "not good",
+        "neg"
+      ],
+      [
+        "9pro",
+        "taking pictures",
+        "not good",
+        "neg"
+      ],
+      [
+        "9pro",
+        "workmanship",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_43_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_44_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_44_1": [
+      [
+        "11u",
+        "battery life",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_44_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_44_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_44_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_44_5": [
+      [
+        "OnePlus",
+        "battery",
+        "not very big",
+        "neg"
+      ]
+    ],
+    "quadruples_44_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_45_0": [
+      [
+        "Apple",
+        "charges",
+        "slowly",
+        "neg"
+      ],
+      [
+        "Apple",
+        "consumes",
+        "slowly",
+        "neg"
+      ]
+    ],
+    "quadruples_45_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_45_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_45_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_45_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_45_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_45_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_45_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_45_8": [
+      [
+        "13promax",
+        "battery life",
+        "better",
+        "pos"
+      ],
+      [
+        "Apple",
+        "battery",
+        "only 3,000",
+        "neg"
+      ],
+      [
+        "Apple",
+        "power consumption",
+        "slow",
+        "neg"
+      ]
+    ],
+    "quadruples_45_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_46_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_46_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_46_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_46_3": [
+      [
+        "Apple",
+        "playing games",
+        "hot",
+        "neg"
+      ],
+      [
+        "Mi 11",
+        "playing games",
+        "hot",
+        "neg"
+      ]
+    ],
+    "quadruples_46_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_46_5": [
+      [
+        "Apple",
+        "heat dissipation",
+        "bad",
+        "neg"
+      ]
+    ],
+    "quadruples_46_6": [
+      [
+        "Apple",
+        "heat dissipation",
+        "too bad",
+        "neg"
+      ]
+    ],
+    "quadruples_47_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_47_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_47_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_47_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_47_4": [
+      [
+        "Xiaomi Mi 12",
+        "battery life",
+        "even worse",
+        "neg"
+      ],
+      [
+        "Xiaomi Mi 12",
+        "battery life",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_47_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_47_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_47_7": [
+      [
+        "Xiaomi Mi 12",
+        "battery",
+        "such a small",
+        "neg"
+      ]
+    ],
+    "quadruples_47_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_48_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_48_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_48_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_48_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_48_4": [
+      [
+        "Apple",
+        "taking pictures",
+        "an advantage",
+        "pos"
+      ]
+    ],
+    "quadruples_48_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_48_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_48_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_48_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_48_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_49_0": [
+      [
+        "s10+",
+        "battery status",
+        "poor",
+        "other"
+      ]
+    ],
+    "quadruples_49_1": [
+      [
+        "s10+",
+        "battery",
+        "healthy",
+        "pos"
+      ],
+      [
+        "s10+",
+        "battery",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_49_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_49_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_49_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_49_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_50_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_50_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_50_2": [
+      [
+        "12",
+        "batteries",
+        "strong demand",
+        "pos"
+      ],
+      [
+        "12",
+        "fast charging",
+        "strong demand",
+        "pos"
+      ],
+      [
+        "12",
+        "processor",
+        "flagship",
+        "pos"
+      ]
+    ],
+    "quadruples_50_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_50_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_50_5": [
+      [
+        "Mi 8",
+        "battery life",
+        "bad",
+        "neg"
+      ],
+      [
+        "Mi 8",
+        "memory",
+        "lack",
+        "neg"
+      ]
+    ],
+    "quadruples_50_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_50_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_51_0": [
+      [
+        "Meizu 18 series",
+        "camera optimization",
+        "opened the gap",
+        "neg"
+      ]
+    ],
+    "quadruples_51_1": [
+      [
+        "Huawei",
+        "photo",
+        "better",
+        "neg"
+      ],
+      [
+        "Meizu",
+        "motor experience",
+        "[laugh cry]",
+        "other"
+      ],
+      [
+        "Meizu",
+        "photo",
+        "better",
+        "pos"
+      ],
+      [
+        "Meizu",
+        "small window experience",
+        "first-class",
+        "pos"
+      ]
+    ],
+    "quadruples_51_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_51_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_51_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_51_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_4": [
+      [
+        "One plus 5",
+        "system",
+        "smooth",
+        "pos"
+      ]
+    ],
+    "quadruples_52_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_52_9": [
+      [
+        "one plus 7",
+        "battery life",
+        "bad",
+        "neg"
+      ]
+    ],
+    "quadruples_53_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_53_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_53_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_53_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_53_4": [
+      [
+        "7se",
+        "screen effect",
+        "better",
+        "pos"
+      ],
+      [
+        "Honor",
+        "screen effect",
+        "better",
+        "neg"
+      ]
+    ],
+    "quadruples_53_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_54_0": [
+      [
+        "Apple",
+        "network",
+        "disconnected",
+        "neg"
+      ],
+      [
+        "Apple",
+        "play games",
+        "too hot",
+        "neg"
+      ]
+    ],
+    "quadruples_54_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_54_2": [
+      [
+        "Apple 11",
+        "signal",
+        "sucks",
+        "neg"
+      ]
+    ],
+    "quadruples_54_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_54_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_54_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_54_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_54_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_55_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_55_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_55_2": [
+      [
+        "Huawei",
+        "quality control",
+        "no better than",
+        "neg"
+      ],
+      [
+        "Huawei",
+        "texture",
+        "no better than",
+        "neg"
+      ],
+      [
+        "Oppo",
+        "quality control",
+        "good",
+        "pos"
+      ],
+      [
+        "Oppo",
+        "texture",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_55_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_55_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_55_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_55_6": [
+      [
+        "mate series",
+        "appearance",
+        "much better",
+        "pos"
+      ],
+      [
+        "p series",
+        "appearance",
+        "much better",
+        "neg"
+      ]
+    ],
+    "quadruples_55_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_56_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_56_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_56_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_56_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_56_4": [
+      [
+        "Changxiang",
+        "configuration",
+        "poor",
+        "neg"
+      ],
+      [
+        "Huawei",
+        "system",
+        "indeed relatively stable",
+        "pos"
+      ]
+    ],
+    "quadruples_56_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_56_6": [
+      [
+        "Huawei",
+        "system",
+        "stable",
+        "pos"
+      ]
+    ],
+    "quadruples_56_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_56_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_57_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_57_1": [
+      [
+        "p40pro",
+        "90hz",
+        "well optimized",
+        "pos"
+      ],
+      [
+        "p40pro",
+        "Taking photo",
+        "stable",
+        "pos"
+      ],
+      [
+        "p40pro",
+        "workmanship",
+        "excellent",
+        "pos"
+      ]
+    ],
+    "quadruples_57_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_57_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_57_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_57_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_57_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_57_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_58_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_58_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_58_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_58_3": [
+      [
+        "civi",
+        "feels",
+        "so good",
+        "pos"
+      ]
+    ],
+    "quadruples_58_4": [
+      [
+        "civi",
+        "battery life",
+        "best",
+        "pos"
+      ]
+    ],
+    "quadruples_58_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_58_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_59_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_59_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_59_2": [
+      [
+        "Honor 30Pro+",
+        "battery life",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_59_3": [
+      [
+        "Honor",
+        "battery life",
+        "indeed bad",
+        "neg"
+      ]
+    ],
+    "quadruples_59_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_59_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_59_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_60_0": [
+      [
+        "vivoX20",
+        "screen",
+        "not broken",
+        "pos"
+      ]
+    ],
+    "quadruples_60_1": [
+      [
+        "z5",
+        "battery life",
+        "excellent",
+        "pos"
+      ],
+      [
+        "z5",
+        "processor",
+        "enough for daily use",
+        "pos"
+      ]
+    ],
+    "quadruples_60_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_60_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_60_4": [
+      [
+        "Redmi K40",
+        "performance",
+        "good",
+        "pos"
+      ],
+      [
+        "vivo",
+        "battery life",
+        "good",
+        "pos"
+      ],
+      [
+        "vivo",
+        "camera performance",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_60_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_60_6": [
+      [
+        "se",
+        "charges",
+        "fast",
+        "neg"
+      ],
+      [
+        "vitality version",
+        "nfc",
+        "has",
+        "pos"
+      ]
+    ],
+    "quadruples_61_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_61_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_61_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_61_3": [
+      [
+        "Apple pm",
+        "battery life",
+        "brick",
+        "pos"
+      ],
+      [
+        "Mi 10 super cup",
+        "power consumption",
+        "stronger",
+        "neg"
+      ],
+      [
+        "pm",
+        "power consumption",
+        "stronger",
+        "pos"
+      ]
+    ],
+    "quadruples_61_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_61_5": [
+      [
+        "Xiaomi Mi 10 Extreme Commemorative Edition",
+        "charging",
+        "awesome",
+        "pos"
+      ],
+      [
+        "Xiaomi Mi 10 Extreme Commemorative Edition",
+        "power-hungry",
+        "very",
+        "neg"
+      ]
+    ],
+    "quadruples_61_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_61_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_61_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_62_0": [
+      [
+        "iQOO5",
+        "photography",
+        "most powerful series",
+        "pos"
+      ]
+    ],
+    "quadruples_62_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_62_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_62_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_62_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_62_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_62_6": [
+      [
+        "iQOO5",
+        "other places",
+        "declined",
+        "neg"
+      ],
+      [
+        "iQOO5",
+        "screen",
+        "upgraded",
+        "pos"
+      ]
+    ],
+    "quadruples_62_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_63_0": [
+      [
+        "Xiaomi Mi 9",
+        "battery",
+        "loses power very quickly",
+        "neg"
+      ],
+      [
+        "Xiaomi Mi 9",
+        "quality",
+        "too bad",
+        "neg"
+      ]
+    ],
+    "quadruples_63_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_63_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_63_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_63_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_63_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_63_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_63_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_64_0": [
+      [
+        "vivo",
+        "battery life",
+        "very good",
+        "pos"
+      ],
+      [
+        "vivo",
+        "camera",
+        "very good",
+        "pos"
+      ],
+      [
+        "vivo",
+        "game",
+        "very smooth",
+        "pos"
+      ],
+      [
+        "vivo",
+        "settings",
+        "very good",
+        "pos"
+      ]
+    ],
+    "quadruples_64_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_64_2": [
+      [
+        "vivo",
+        "cost performance",
+        "not high",
+        "neg"
+      ],
+      [
+        "vivo",
+        "memory",
+        "small",
+        "neg"
+      ],
+      [
+        "vivo",
+        "response",
+        "slower",
+        "neg"
+      ],
+      [
+        "vivo",
+        "startup",
+        "slower",
+        "neg"
+      ]
+    ],
+    "quadruples_64_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_64_4": [
+      [
+        "vivo",
+        "battery life",
+        "very poor",
+        "neg"
+      ]
+    ],
+    "quadruples_64_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_64_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_65_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_65_1": [
+      [
+        "OnePR 9Pro",
+        "battery life",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_65_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_65_3": [
+      [
+        "OnePlus 9P",
+        "heat",
+        "hot",
+        "neg"
+      ],
+      [
+        "OnePlus 9P",
+        "power consumption",
+        "very large",
+        "neg"
+      ]
+    ],
+    "quadruples_65_4": [
+      [
+        "x3",
+        "battery life",
+        "OK",
+        "pos"
+      ]
+    ],
+    "quadruples_65_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_66_0": [
+      [
+        "Mi 6",
+        "appearance",
+        "beautifying",
+        "neg"
+      ],
+      [
+        "Mi 6",
+        "screen",
+        "average",
+        "neg"
+      ],
+      [
+        "Mi 6",
+        "workmanship",
+        "poor",
+        "neg"
+      ],
+      [
+        "mate20p",
+        "design",
+        "praised",
+        "pos"
+      ],
+      [
+        "mate20p",
+        "gap insert paper",
+        "very bad",
+        "neg"
+      ],
+      [
+        "mate20p",
+        "screen",
+        "very strange",
+        "neg"
+      ]
+    ],
+    "quadruples_66_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_66_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_66_3": [
+      [
+        "mate20pro",
+        "design",
+        "advanced",
+        "pos"
+      ]
+    ],
+    "quadruples_66_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_66_5": [
+      [
+        "Mi 6",
+        "battery",
+        "a bit small",
+        "neg"
+      ],
+      [
+        "Mi 6",
+        "else",
+        "fine",
+        "pos"
+      ],
+      [
+        "Mi 6",
+        "price",
+        "indominable",
+        "pos"
+      ]
+    ],
+    "quadruples_67_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_67_1": [
+      [
+        "11",
+        "LCD screen",
+        "not bad",
+        "pos"
+      ],
+      [
+        "11",
+        "battery",
+        "not good",
+        "neg"
+      ],
+      [
+        "11",
+        "signal",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_67_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_67_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_67_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_67_5": [
+      [
+        "11",
+        "battery",
+        "fastest damaged",
+        "neg"
+      ],
+      [
+        "11",
+        "screen",
+        "nothing to say",
+        "neg"
+      ],
+      [
+        "11",
+        "taking pictures",
+        "uncomfortable",
+        "neg"
+      ]
+    ],
+    "quadruples_67_6": [
+      [
+        "13p",
+        "performance",
+        "have no problem",
+        "other"
+      ],
+      [
+        "13p",
+        "power consumption",
+        "fast",
+        "neg"
+      ]
+    ],
+    "quadruples_68_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_68_1": [
+      [
+        "OnePlus",
+        "price reduction",
+        "too fast",
+        "neg"
+      ],
+      [
+        "OnePlus",
+        "texture",
+        "better",
+        "pos"
+      ],
+      [
+        "Xiaomi",
+        "texture",
+        "better",
+        "neg"
+      ]
+    ],
+    "quadruples_68_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_68_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_68_4": [
+      [
+        "one plus 6",
+        "experience",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_68_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_69_0": [
+      [
+        "Taking pictures",
+        "Taking pictures",
+        "sucks",
+        "neg"
+      ]
+    ],
+    "quadruples_69_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_69_2": [
+      [
+        "Xiaomi 11",
+        "software optimization",
+        "sucks",
+        "neg"
+      ]
+    ],
+    "quadruples_69_3": [
+      [
+        "Xiaomi",
+        "Optimization",
+        "weakness",
+        "neg"
+      ]
+    ],
+    "quadruples_69_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_69_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_69_6": [
+      [
+        "neo5",
+        "price",
+        "500 more expensive than k40",
+        "neg"
+      ],
+      [
+        "neo5",
+        "take better pictures",
+        "normal",
+        "pos"
+      ]
+    ],
+    "quadruples_69_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_69_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_69_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_70_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_70_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_70_2": [
+      [
+        "Huawei",
+        "usage cycle",
+        "too long",
+        "neg"
+      ]
+    ],
+    "quadruples_70_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_70_4": [
+      [
+        "Huawei",
+        "charging",
+        "not that",
+        "other"
+      ],
+      [
+        "Xiaomi",
+        "charging",
+        "more important",
+        "pos"
+      ],
+      [
+        "Xiaomi",
+        "service life of the battery",
+        "cheaper to replace",
+        "neg"
+      ]
+    ],
+    "quadruples_70_5": [
+      [
+        "P40P",
+        "battery life",
+        "not good",
+        "neg"
+      ],
+      [
+        "P40P",
+        "charging speed",
+        "not good",
+        "neg"
+      ],
+      [
+        "P40P",
+        "charging speed",
+        "same as",
+        "other"
+      ]
+    ],
+    "quadruples_71_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_71_1": [
+      [
+        "13Pro",
+        "battery life",
+        "not good",
+        "neg"
+      ]
+    ],
+    "quadruples_71_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_71_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_71_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_71_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_71_6": [
+      [
+        "13",
+        "battery life",
+        "not as good as",
+        "pos"
+      ],
+      [
+        "13pro",
+        "battery life",
+        "not as good as",
+        "neg"
+      ]
+    ],
+    "quadruples_72_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_72_1": [
+      [
+        "Exploration Edition",
+        "battery life",
+        "power consumption fast",
+        "other"
+      ]
+    ],
+    "quadruples_72_2": [
+      [
+        "NEO2",
+        "battery life",
+        "better",
+        "pos"
+      ]
+    ],
+    "quadruples_72_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_72_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_72_5": [
+      [
+        "Meizu 17Pro",
+        "taking pictures",
+        "okay",
+        "pos"
+      ],
+      [
+        "X60",
+        "taking pictures",
+        "okay",
+        "pos"
+      ],
+      [
+        "Xiaomi Mi 10s",
+        "taking pictures",
+        "okay",
+        "pos"
+      ],
+      [
+        "iqooneo5",
+        "taking pictures",
+        "okay",
+        "pos"
+      ]
+    ],
+    "quadruples_73_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_73_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_73_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_73_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_73_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_73_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_73_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_74_0": [
+      [
+        "Xiaomi",
+        "battery",
+        "too like chicken ribs",
+        "neg"
+      ],
+      [
+        "Xiaomi",
+        "price",
+        "okay",
+        "pos"
+      ]
+    ],
+    "quadruples_74_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_74_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_74_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_74_4": [
+      [
+        "Xiaomi",
+        "battery life",
+        "too poor",
+        "neg"
+      ],
+      [
+        "Xiaomi",
+        "configuration",
+        "high",
+        "pos"
+      ],
+      [
+        "Xiaomi",
+        "price",
+        "kind",
+        "pos"
+      ]
+    ],
+    "quadruples_74_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_74_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_74_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_74_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_75_0": [
+      [
+        "Honor",
+        "charging",
+        "fastest",
+        "pos"
+      ],
+      [
+        "Honor",
+        "heat dissipation",
+        "best",
+        "pos"
+      ],
+      [
+        "Honor",
+        "taking pictures",
+        "ok",
+        "pos"
+      ]
+    ],
+    "quadruples_75_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_75_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_75_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_75_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_75_5": [
+      [
+        "magic generation",
+        "heat dissipation",
+        "totally beat",
+        "pos"
+      ],
+      [
+        "magic generation",
+        "screen",
+        "less curved",
+        "neg"
+      ],
+      [
+        "magic generation",
+        "taking pictures",
+        "totally beat",
+        "pos"
+      ]
+    ],
+    "quadruples_76_0": [
+      [
+        "Honor 50",
+        "photos",
+        "very good",
+        "pos"
+      ],
+      [
+        "Honor 50",
+        "videos",
+        "very good",
+        "pos"
+      ]
+    ],
+    "quadruples_76_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_76_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_76_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_76_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_76_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_77_0": [
+      [
+        "xs",
+        "border",
+        "big",
+        "neg"
+      ]
+    ],
+    "quadruples_77_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_77_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_77_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_77_4": [
+      [
+        "xs",
+        "battery",
+        "break down more after a while",
+        "neg"
+      ]
+    ],
+    "quadruples_77_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_78_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_78_1": [
+      [
+        "11u",
+        "taking pictures",
+        "better",
+        "neg"
+      ]
+    ],
+    "quadruples_78_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_78_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_78_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_78_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_78_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_78_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_1": [
+      [
+        "Mi",
+        "cost performance",
+        "high",
+        "neg"
+      ],
+      [
+        "Mi",
+        "quality control",
+        "bad",
+        "neg"
+      ],
+      [
+        "Mi",
+        "system",
+        "how difficult",
+        "neg"
+      ]
+    ],
+    "quadruples_79_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_7": [
+      [
+        "Xiaomi Mi 6",
+        "inner screen",
+        "blur",
+        "neg"
+      ]
+    ],
+    "quadruples_79_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_79_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_80_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_80_1": [
+      [
+        "Apple",
+        "system optimization",
+        "a gap",
+        "neg"
+      ],
+      [
+        "OnePlus",
+        "models",
+        "squeeze out so much at once",
+        "neg"
+      ]
+    ],
+    "quadruples_80_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_80_3": [
+      [
+        "small factories",
+        "system optimization",
+        "never trust",
+        "neg"
+      ]
+    ],
+    "quadruples_80_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_80_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_80_6": [
+      [
+        "Samsung",
+        "animation",
+        "very good",
+        "pos"
+      ],
+      [
+        "Samsung",
+        "system stability",
+        "very good",
+        "pos"
+      ]
+    ],
+    "quadruples_81_0": [
+      [
+        "12p",
+        "positioning",
+        "embarassing",
+        "neg"
+      ]
+    ],
+    "quadruples_81_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_81_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_81_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_81_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_81_5": [
+      [
+        "PM",
+        "camera",
+        "too heavy like a brick",
+        "neg"
+      ]
+    ],
+    "quadruples_82_0": [
+      [
+        "Nubia",
+        "battery life",
+        "how about",
+        "other"
+      ],
+      [
+        "Nubia",
+        "photography",
+        "how about",
+        "other"
+      ]
+    ],
+    "quadruples_82_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_82_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_82_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_82_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_82_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_0": [
+      [
+        "Huawei",
+        "operation",
+        "not very smooth",
+        "neg"
+      ],
+      [
+        "Huawei",
+        "system",
+        "not very good",
+        "neg"
+      ]
+    ],
+    "quadruples_83_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_83_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_84_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_84_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_84_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_84_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_84_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_84_5": [
+      [
+        "hw",
+        "high refresh rate",
+        "very stable without locking the frame",
+        "pos"
+      ],
+      [
+        "hw",
+        "smoothness of the daily experience",
+        "able to satisfy",
+        "pos"
+      ]
+    ],
+    "quadruples_85_0": [
+      [
+        "iqoo",
+        "playing games",
+        "can hardly charge",
+        "neg"
+      ]
+    ],
+    "quadruples_85_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_85_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_85_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_85_4": [
+      [
+        "iqoo",
+        "Play games",
+        "can't work",
+        "neg"
+      ],
+      [
+        "iqoo",
+        "body heats up",
+        "too much",
+        "neg"
+      ]
+    ],
+    "quadruples_85_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_85_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_86_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_86_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_86_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_86_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_86_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_86_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_86_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_86_7": [
+      [
+        "Meizu",
+        "camera",
+        "a bit bad",
+        "neg"
+      ]
+    ],
+    "quadruples_86_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_87_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_87_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_87_2": [
+      [
+        "Apple",
+        "performance",
+        "strong",
+        "pos"
+      ],
+      [
+        "Apple",
+        "signal",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_87_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_87_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_87_5": [
+      [
+        "Apple",
+        "signal",
+        "poor",
+        "neg"
+      ]
+    ],
+    "quadruples_87_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_87_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_87_8": [
+      "statement-non-opinion"
+    ],
+    "quadruples_87_9": [
+      "statement-non-opinion"
+    ],
+    "quadruples_88_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_88_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_88_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_88_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_88_4": [
+      [
+        "max",
+        "battery",
+        "too small",
+        "neg"
+      ]
+    ],
+    "quadruples_88_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_88_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_88_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_89_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_89_1": [
+      [
+        "K40",
+        "camera",
+        "average",
+        "neg"
+      ],
+      [
+        "K40",
+        "fast charging",
+        "a bit slow",
+        "neg"
+      ],
+      [
+        "K40",
+        "system",
+        "not very good",
+        "neg"
+      ],
+      [
+        "Mi 10s",
+        "audio",
+        "better",
+        "pos"
+      ],
+      [
+        "Mi 10s",
+        "fast charging",
+        "not very good",
+        "neg"
+      ],
+      [
+        "Mi 10s",
+        "screen",
+        "not good",
+        "neg"
+      ],
+      [
+        "Mi 10s",
+        "system",
+        "not very good",
+        "neg"
+      ],
+      [
+        "Mi 10s",
+        "video",
+        "better",
+        "pos"
+      ]
+    ],
+    "quadruples_89_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_89_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_89_4": [
+      [
+        "neo5",
+        "screen",
+        "not satisfied",
+        "neg"
+      ]
+    ],
+    "quadruples_89_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_90_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_90_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_90_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_90_3": [
+      [
+        "Duoduo",
+        "price",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_90_4": [
+      [
+        "Master Exploration Edition",
+        "texture",
+        "good",
+        "pos"
+      ],
+      [
+        "Master Exploration Edition",
+        "workmanship",
+        "good",
+        "pos"
+      ]
+    ],
+    "quadruples_90_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_90_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_90_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_91_0": [
+      [
+        "Hongmeng",
+        "drop power",
+        "very fast",
+        "neg"
+      ]
+    ],
+    "quadruples_91_1": [
+      [
+        "mate40pro+",
+        "battery life",
+        "good",
+        "pos"
+      ],
+      [
+        "mate40pro+",
+        "system power",
+        "dropped quickly",
+        "neg"
+      ]
+    ],
+    "quadruples_91_2": [
+      [
+        "Honor 30Pro",
+        "power drop",
+        "fast",
+        "neg"
+      ]
+    ],
+    "quadruples_91_3": [
+      [
+        "mate40pro+",
+        "battery",
+        "old",
+        "neg"
+      ]
+    ],
+    "quadruples_91_4": [
+      [
+        "Hongmeng",
+        "battery life",
+        "poor",
+        "neg"
+      ],
+      [
+        "Hongmeng",
+        "power",
+        "indeed power consumption fast",
+        "neg"
+      ]
+    ],
+    "quadruples_91_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_92_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_92_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_92_2": [
+      [
+        "civi",
+        "front",
+        "looks good",
+        "pos"
+      ],
+      [
+        "civi",
+        "logo",
+        "strangely placed",
+        "neg"
+      ],
+      [
+        "civi",
+        "rear camera",
+        "strangely placed",
+        "neg"
+      ]
+    ],
+    "quadruples_92_3": [
+      [
+        "oppo r15",
+        "middle frame",
+        "good-looking",
+        "pos"
+      ],
+      [
+        "oppo r15",
+        "workmanship",
+        "best",
+        "pos"
+      ]
+    ],
+    "quadruples_92_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_92_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_93_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_93_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_93_2": [
+      [
+        "k40",
+        "game texture",
+        "top",
+        "pos"
+      ]
+    ],
+    "quadruples_93_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_93_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_93_5": [
+      [
+        "MIX4",
+        "border",
+        "quite narrow",
+        "other"
+      ],
+      [
+        "MIX4",
+        "border",
+        "very wide",
+        "other"
+      ]
+    ],
+    "quadruples_93_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_93_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_94_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_94_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_94_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_94_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_94_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_94_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_95_0": [
+      [
+        "Xiaomi 10",
+        "aperture",
+        "smaller",
+        "neg"
+      ],
+      [
+        "Xiaomi 10",
+        "dual speakers",
+        "lacks",
+        "neg"
+      ],
+      [
+        "Xiaomi 10",
+        "fast charging",
+        "more",
+        "neg"
+      ],
+      [
+        "Xiaomi 10",
+        "system",
+        "not as good as",
+        "neg"
+      ],
+      [
+        "Xiaomi 10",
+        "taking pictures",
+        "not as good as",
+        "pos"
+      ]
+    ],
+    "quadruples_95_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_95_2": [
+      [
+        "Honor",
+        "system",
+        "not as good as",
+        "pos"
+      ],
+      [
+        "vivo",
+        "system",
+        "not as good as",
+        "neg"
+      ]
+    ],
+    "quadruples_95_3": [
+      [
+        "iQOOUI",
+        "system",
+        "relatively simple",
+        "other"
+      ],
+      [
+        "vivo",
+        "system optimization",
+        "not very good",
+        "neg"
+      ]
+    ],
+    "quadruples_95_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_95_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_3": [
+      [
+        "mix3",
+        "battery life",
+        "not very good",
+        "neg"
+      ]
+    ],
+    "quadruples_96_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_6": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_7": [
+      "statement-non-opinion"
+    ],
+    "quadruples_96_8": [
+      [
+        "Huawei",
+        "system",
+        "garbage",
+        "neg"
+      ]
+    ],
+    "quadruples_97_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_97_1": [
+      [
+        "598",
+        "light pressure",
+        "so good",
+        "pos"
+      ]
+    ],
+    "quadruples_97_2": [
+      [
+        "iqoo5pro",
+        "depress highlights",
+        "rubbish",
+        "neg"
+      ]
+    ],
+    "quadruples_97_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_97_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_97_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_98_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_98_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_98_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_98_3": [
+      [
+        "Apple",
+        "battery life",
+        "invincible",
+        "pos"
+      ],
+      [
+        "Apple",
+        "energy consumption ratio",
+        "very high",
+        "neg"
+      ]
+    ],
+    "quadruples_98_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_98_5": [
+      "statement-non-opinion"
+    ],
+    "quadruples_98_6": [
+      [
+        "iPhone 13 promax",
+        "battery life",
+        "world's best",
+        "pos"
+      ]
+    ],
+    "quadruples_99_0": [
+      "statement-non-opinion"
+    ],
+    "quadruples_99_1": [
+      "statement-non-opinion"
+    ],
+    "quadruples_99_2": [
+      "statement-non-opinion"
+    ],
+    "quadruples_99_3": [
+      "statement-non-opinion"
+    ],
+    "quadruples_99_4": [
+      "statement-non-opinion"
+    ],
+    "quadruples_99_5": [
+      [
+        "shell",
+        "don't feel particularly hot",
+        "okay",
+        "pos"
+      ],
+      [
+        "shell",
+        "screen",
+        "a bit hot",
+        "neg"
+      ]
+    ],
+    "quadruples_99_6": [
+      "statement-non-opinion"
+    ]
+  }
+}
